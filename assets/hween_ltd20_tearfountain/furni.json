@@ -1,0 +1,579 @@
+{
+  "assets": {
+    "hween_ltd20_tearfountain_64_sd_4_0": {
+      "name": "hween_ltd20_tearfountain_64_sd_4_0",
+      "x": 29,
+      "y": 18,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_a_4_0": {
+      "name": "hween_ltd20_tearfountain_64_a_4_0",
+      "x": 29,
+      "y": 108,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_b_4_0": {
+      "name": "hween_ltd20_tearfountain_64_b_4_0",
+      "x": 23,
+      "y": 10,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_c_4_0": {
+      "name": "hween_ltd20_tearfountain_64_c_4_0",
+      "x": 22,
+      "y": 4,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_c_4_1": {
+      "name": "hween_ltd20_tearfountain_64_c_4_1",
+      "x": 23,
+      "y": 4,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_c_4_2": {
+      "name": "hween_ltd20_tearfountain_64_c_4_2",
+      "x": 23,
+      "y": 5,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_c_4_3": {
+      "name": "hween_ltd20_tearfountain_64_c_4_3",
+      "x": 22,
+      "y": 5,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_c_4_4": {
+      "name": "hween_ltd20_tearfountain_64_c_4_4",
+      "x": 21,
+      "y": 5,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_c_4_5": {
+      "name": "hween_ltd20_tearfountain_64_c_4_5",
+      "x": 21,
+      "y": 4,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_d_4_0": {
+      "name": "hween_ltd20_tearfountain_64_d_4_0",
+      "x": 17,
+      "y": 86,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_d_4_1": {
+      "name": "hween_ltd20_tearfountain_64_d_4_1",
+      "x": 17,
+      "y": 86,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_d_4_2": {
+      "name": "hween_ltd20_tearfountain_64_d_4_2",
+      "x": 17,
+      "y": 86,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_d_4_3": {
+      "name": "hween_ltd20_tearfountain_64_d_4_3",
+      "x": 17,
+      "y": 86,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_d_4_4": {
+      "name": "hween_ltd20_tearfountain_64_d_4_4",
+      "x": 17,
+      "y": 86,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_d_4_5": {
+      "name": "hween_ltd20_tearfountain_64_d_4_5",
+      "x": 17,
+      "y": 86,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_e_4_0": {
+      "name": "hween_ltd20_tearfountain_64_e_4_0",
+      "x": 19,
+      "y": 7,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_e_4_1": {
+      "name": "hween_ltd20_tearfountain_64_e_4_1",
+      "x": 21,
+      "y": 7,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_e_4_2": {
+      "name": "hween_ltd20_tearfountain_64_e_4_2",
+      "x": 23,
+      "y": 3,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_f_4_0": {
+      "name": "hween_ltd20_tearfountain_64_f_4_0",
+      "x": 7,
+      "y": 1,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_f_4_1": {
+      "name": "hween_ltd20_tearfountain_64_f_4_1",
+      "x": 9,
+      "y": 0,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_f_4_2": {
+      "name": "hween_ltd20_tearfountain_64_f_4_2",
+      "x": 12,
+      "y": 0,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_f_4_3": {
+      "name": "hween_ltd20_tearfountain_64_f_4_3",
+      "x": 15,
+      "y": 2,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_g_4_0": {
+      "name": "hween_ltd20_tearfountain_64_g_4_0",
+      "x": 18,
+      "y": 8,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_icon_a": {
+      "name": "hween_ltd20_tearfountain_icon_a",
+      "x": 6,
+      "y": 14,
+      "exists": true
+    },
+    "hween_ltd20_tearfountain_64_sd_2_0": {
+      "name": "hween_ltd20_tearfountain_64_sd_2_0",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_sd_4_0",
+      "x": 29,
+      "y": 18,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_a_2_0": {
+      "name": "hween_ltd20_tearfountain_64_a_2_0",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_a_4_0",
+      "x": 29,
+      "y": 108,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_b_2_0": {
+      "name": "hween_ltd20_tearfountain_64_b_2_0",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_b_4_0",
+      "x": 23,
+      "y": 10,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_c_2_0": {
+      "name": "hween_ltd20_tearfountain_64_c_2_0",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_c_4_0",
+      "x": 22,
+      "y": 4,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_c_2_1": {
+      "name": "hween_ltd20_tearfountain_64_c_2_1",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_c_4_1",
+      "x": 23,
+      "y": 4,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_c_2_2": {
+      "name": "hween_ltd20_tearfountain_64_c_2_2",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_c_4_2",
+      "x": 23,
+      "y": 5,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_c_2_3": {
+      "name": "hween_ltd20_tearfountain_64_c_2_3",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_c_4_3",
+      "x": 22,
+      "y": 5,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_c_2_4": {
+      "name": "hween_ltd20_tearfountain_64_c_2_4",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_c_4_4",
+      "x": 21,
+      "y": 5,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_c_2_5": {
+      "name": "hween_ltd20_tearfountain_64_c_2_5",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_c_4_5",
+      "x": 21,
+      "y": 4,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_d_2_0": {
+      "name": "hween_ltd20_tearfountain_64_d_2_0",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_d_4_0",
+      "x": 17,
+      "y": 86,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_d_2_1": {
+      "name": "hween_ltd20_tearfountain_64_d_2_1",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_d_4_1",
+      "x": 17,
+      "y": 86,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_d_2_2": {
+      "name": "hween_ltd20_tearfountain_64_d_2_2",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_d_4_2",
+      "x": 17,
+      "y": 86,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_d_2_3": {
+      "name": "hween_ltd20_tearfountain_64_d_2_3",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_d_4_3",
+      "x": 17,
+      "y": 86,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_d_2_4": {
+      "name": "hween_ltd20_tearfountain_64_d_2_4",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_d_4_4",
+      "x": 17,
+      "y": 86,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_d_2_5": {
+      "name": "hween_ltd20_tearfountain_64_d_2_5",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_d_4_5",
+      "x": 17,
+      "y": 86,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_e_2_0": {
+      "name": "hween_ltd20_tearfountain_64_e_2_0",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_e_4_0",
+      "x": 19,
+      "y": 7,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_e_2_1": {
+      "name": "hween_ltd20_tearfountain_64_e_2_1",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_e_4_1",
+      "x": 21,
+      "y": 7,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_e_2_2": {
+      "name": "hween_ltd20_tearfountain_64_e_2_2",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_e_4_2",
+      "x": 23,
+      "y": 3,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_f_2_0": {
+      "name": "hween_ltd20_tearfountain_64_f_2_0",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_f_4_0",
+      "x": 7,
+      "y": 1,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_f_2_1": {
+      "name": "hween_ltd20_tearfountain_64_f_2_1",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_f_4_1",
+      "x": 9,
+      "y": 0,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_f_2_2": {
+      "name": "hween_ltd20_tearfountain_64_f_2_2",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_f_4_2",
+      "x": 12,
+      "y": 0,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_f_2_3": {
+      "name": "hween_ltd20_tearfountain_64_f_2_3",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_f_4_3",
+      "x": 15,
+      "y": 2,
+      "exists": false
+    },
+    "hween_ltd20_tearfountain_64_g_2_0": {
+      "name": "hween_ltd20_tearfountain_64_g_2_0",
+      "flipH": 1,
+      "source": "hween_ltd20_tearfountain_64_g_4_0",
+      "x": 18,
+      "y": 8,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 7,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        },
+        {
+          "layerId": 3
+        },
+        {
+          "layerId": 4
+        },
+        {
+          "layerId": 5
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween_ltd20_tearfountain",
+    "visualization": "furniture_animated"
+  }
+}

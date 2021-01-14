@@ -1,0 +1,281 @@
+{
+  "assets": {
+    "art_c20_coffeetable_64_sd_4_0": {
+      "name": "art_c20_coffeetable_64_sd_4_0",
+      "x": 54,
+      "y": 10,
+      "exists": true
+    },
+    "art_c20_coffeetable_64_a_4_0": {
+      "name": "art_c20_coffeetable_64_a_4_0",
+      "x": 10,
+      "y": 30,
+      "exists": true
+    },
+    "art_c20_coffeetable_64_b_4_0": {
+      "name": "art_c20_coffeetable_64_b_4_0",
+      "x": 37,
+      "y": 37,
+      "exists": true
+    },
+    "art_c20_coffeetable_64_c_4_0": {
+      "name": "art_c20_coffeetable_64_c_4_0",
+      "x": 55,
+      "y": 15,
+      "exists": true
+    },
+    "art_c20_coffeetable_64_a_4_1": {
+      "name": "art_c20_coffeetable_64_a_4_1",
+      "x": 10,
+      "y": 33,
+      "exists": true
+    },
+    "art_c20_coffeetable_64_b_4_1": {
+      "name": "art_c20_coffeetable_64_b_4_1",
+      "x": 38,
+      "y": 41,
+      "exists": true
+    },
+    "art_c20_coffeetable_64_c_4_1": {
+      "name": "art_c20_coffeetable_64_c_4_1",
+      "x": 55,
+      "y": 13,
+      "exists": true
+    },
+    "art_c20_coffeetable_64_a_4_2": {
+      "name": "art_c20_coffeetable_64_a_4_2",
+      "x": 10,
+      "y": 28,
+      "exists": true
+    },
+    "art_c20_coffeetable_64_b_4_2": {
+      "name": "art_c20_coffeetable_64_b_4_2",
+      "x": 38,
+      "y": 29,
+      "exists": true
+    },
+    "art_c20_coffeetable_64_c_4_2": {
+      "name": "art_c20_coffeetable_64_c_4_2",
+      "x": 55,
+      "y": 9,
+      "exists": true
+    },
+    "art_c20_coffeetable_icon_a": {
+      "name": "art_c20_coffeetable_icon_a",
+      "x": 14,
+      "y": 9,
+      "exists": true
+    },
+    "art_c20_coffeetable_64_sd_2_0": {
+      "name": "art_c20_coffeetable_64_sd_2_0",
+      "flipH": 1,
+      "source": "art_c20_coffeetable_64_sd_4_0",
+      "x": 54,
+      "y": 10,
+      "exists": false
+    },
+    "art_c20_coffeetable_64_a_2_0": {
+      "name": "art_c20_coffeetable_64_a_2_0",
+      "flipH": 1,
+      "source": "art_c20_coffeetable_64_a_4_0",
+      "x": 10,
+      "y": 30,
+      "exists": false
+    },
+    "art_c20_coffeetable_64_b_2_0": {
+      "name": "art_c20_coffeetable_64_b_2_0",
+      "flipH": 1,
+      "source": "art_c20_coffeetable_64_b_4_0",
+      "x": 37,
+      "y": 37,
+      "exists": false
+    },
+    "art_c20_coffeetable_64_c_2_0": {
+      "name": "art_c20_coffeetable_64_c_2_0",
+      "flipH": 1,
+      "source": "art_c20_coffeetable_64_c_4_0",
+      "x": 55,
+      "y": 15,
+      "exists": false
+    },
+    "art_c20_coffeetable_64_a_2_1": {
+      "name": "art_c20_coffeetable_64_a_2_1",
+      "flipH": 1,
+      "source": "art_c20_coffeetable_64_a_4_1",
+      "x": 10,
+      "y": 33,
+      "exists": false
+    },
+    "art_c20_coffeetable_64_b_2_1": {
+      "name": "art_c20_coffeetable_64_b_2_1",
+      "flipH": 1,
+      "source": "art_c20_coffeetable_64_b_4_1",
+      "x": 38,
+      "y": 41,
+      "exists": false
+    },
+    "art_c20_coffeetable_64_c_2_1": {
+      "name": "art_c20_coffeetable_64_c_2_1",
+      "flipH": 1,
+      "source": "art_c20_coffeetable_64_c_4_1",
+      "x": 55,
+      "y": 13,
+      "exists": false
+    },
+    "art_c20_coffeetable_64_a_2_2": {
+      "name": "art_c20_coffeetable_64_a_2_2",
+      "flipH": 1,
+      "source": "art_c20_coffeetable_64_a_4_2",
+      "x": 10,
+      "y": 28,
+      "exists": false
+    },
+    "art_c20_coffeetable_64_b_2_2": {
+      "name": "art_c20_coffeetable_64_b_2_2",
+      "flipH": 1,
+      "source": "art_c20_coffeetable_64_b_4_2",
+      "x": 38,
+      "y": 29,
+      "exists": false
+    },
+    "art_c20_coffeetable_64_c_2_2": {
+      "name": "art_c20_coffeetable_64_c_2_2",
+      "flipH": 1,
+      "source": "art_c20_coffeetable_64_c_4_2",
+      "x": 55,
+      "y": 9,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 0.75
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "art_c20_coffeetable",
+    "visualization": "furniture_animated"
+  }
+}

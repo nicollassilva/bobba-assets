@@ -1,0 +1,184 @@
+{
+  "assets": {
+    "CF_750_golddragon_64_sd_0_0": {
+      "name": "CF_750_golddragon_64_sd_0_0",
+      "x": 21,
+      "y": 9,
+      "exists": true
+    },
+    "CF_750_golddragon_64_a_0_0": {
+      "name": "CF_750_golddragon_64_a_0_0",
+      "x": 24,
+      "y": 45,
+      "exists": true
+    },
+    "CF_750_golddragon_64_b_0_0": {
+      "name": "CF_750_golddragon_64_b_0_0",
+      "x": -2,
+      "y": 15,
+      "exists": true
+    },
+    "CF_750_golddragon_64_b_0_1": {
+      "name": "CF_750_golddragon_64_b_0_1",
+      "x": 0,
+      "y": 17,
+      "exists": true
+    },
+    "CF_750_golddragon_64_b_0_2": {
+      "name": "CF_750_golddragon_64_b_0_2",
+      "x": 1,
+      "y": 18,
+      "exists": true
+    },
+    "CF_750_golddragon_icon_a": {
+      "name": "CF_750_golddragon_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "CF_750_golddragon_64_sd_2_0": {
+      "name": "CF_750_golddragon_64_sd_2_0",
+      "flipH": 1,
+      "source": "CF_750_golddragon_64_sd_0_0",
+      "x": 21,
+      "y": 9,
+      "exists": false
+    },
+    "CF_750_golddragon_64_a_2_0": {
+      "name": "CF_750_golddragon_64_a_2_0",
+      "flipH": 1,
+      "source": "CF_750_golddragon_64_a_0_0",
+      "x": 24,
+      "y": 45,
+      "exists": false
+    },
+    "CF_750_golddragon_64_b_2_0": {
+      "name": "CF_750_golddragon_64_b_2_0",
+      "flipH": 1,
+      "source": "CF_750_golddragon_64_b_0_0",
+      "x": -2,
+      "y": 15,
+      "exists": false
+    },
+    "CF_750_golddragon_64_b_2_1": {
+      "name": "CF_750_golddragon_64_b_2_1",
+      "flipH": 1,
+      "source": "CF_750_golddragon_64_b_0_1",
+      "x": 0,
+      "y": 17,
+      "exists": false
+    },
+    "CF_750_golddragon_64_b_2_2": {
+      "name": "CF_750_golddragon_64_b_2_2",
+      "flipH": 1,
+      "source": "CF_750_golddragon_64_b_0_2",
+      "x": 1,
+      "y": 18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3
+                ],
+                [
+                  3,
+                  3,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3,
+                  3,
+                  3,
+                  0,
+                  1,
+                  2,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_credit",
+    "type": "CF_750_golddragon",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,1556 @@
+{
+  "assets": {
+    "hween_c20_eyesofa_64_sd_2_0": {
+      "name": "hween_c20_eyesofa_64_sd_2_0",
+      "x": 66,
+      "y": 18,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_a_2_0": {
+      "name": "hween_c20_eyesofa_64_a_2_0",
+      "x": 44,
+      "y": 60,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_b_2_0": {
+      "name": "hween_c20_eyesofa_64_b_2_0",
+      "x": 58,
+      "y": 41,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_c_2_0": {
+      "name": "hween_c20_eyesofa_64_c_2_0",
+      "x": 71,
+      "y": 32,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_p_6_1": {
+      "name": "hween_c20_eyesofa_64_p_6_1",
+      "x": 31,
+      "y": 37,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_p_6_2": {
+      "name": "hween_c20_eyesofa_64_p_6_2",
+      "x": 42,
+      "y": 39,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_6_3": {
+      "name": "hween_c20_eyesofa_64_p_6_3",
+      "x": 63,
+      "y": 38,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_6_4": {
+      "name": "hween_c20_eyesofa_64_p_6_4",
+      "x": 65,
+      "y": 39,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_6_5": {
+      "name": "hween_c20_eyesofa_64_p_6_5",
+      "x": 67,
+      "y": 34,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_p_6_6": {
+      "name": "hween_c20_eyesofa_64_p_6_6",
+      "x": 50,
+      "y": 36,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_p_6_7": {
+      "name": "hween_c20_eyesofa_64_p_6_7",
+      "x": 33,
+      "y": 43,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_p_6_8": {
+      "name": "hween_c20_eyesofa_64_p_6_8",
+      "x": 31,
+      "y": 40,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_sd_6_0": {
+      "name": "hween_c20_eyesofa_64_sd_6_0",
+      "x": 66,
+      "y": 18,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_a_6_0": {
+      "name": "hween_c20_eyesofa_64_a_6_0",
+      "x": 29,
+      "y": 61,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_b_6_0": {
+      "name": "hween_c20_eyesofa_64_b_6_0",
+      "x": 9,
+      "y": 45,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_c_6_0": {
+      "name": "hween_c20_eyesofa_64_c_6_0",
+      "x": 71,
+      "y": 31,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_d_2_1": {
+      "name": "hween_c20_eyesofa_64_d_2_1",
+      "x": 54,
+      "y": 9,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_d_2_2": {
+      "name": "hween_c20_eyesofa_64_d_2_2",
+      "x": 55,
+      "y": 9,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_d_6_1": {
+      "name": "hween_c20_eyesofa_64_d_6_1",
+      "x": 54,
+      "y": 9,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_d_6_2": {
+      "name": "hween_c20_eyesofa_64_d_6_2",
+      "x": 55,
+      "y": 9,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_e_2_1": {
+      "name": "hween_c20_eyesofa_64_e_2_1",
+      "x": 42,
+      "y": 20,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_e_2_2": {
+      "name": "hween_c20_eyesofa_64_e_2_2",
+      "x": 42,
+      "y": 20,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_e_6_1": {
+      "name": "hween_c20_eyesofa_64_e_6_1",
+      "x": 42,
+      "y": 20,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_e_6_2": {
+      "name": "hween_c20_eyesofa_64_e_6_2",
+      "x": 42,
+      "y": 20,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_f_2_1": {
+      "name": "hween_c20_eyesofa_64_f_2_1",
+      "x": 1,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_f_2_2": {
+      "name": "hween_c20_eyesofa_64_f_2_2",
+      "x": 1,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_f_6_1": {
+      "name": "hween_c20_eyesofa_64_f_6_1",
+      "x": 1,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_f_6_2": {
+      "name": "hween_c20_eyesofa_64_f_6_2",
+      "x": 1,
+      "y": 56,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_g_2_1": {
+      "name": "hween_c20_eyesofa_64_g_2_1",
+      "x": 50,
+      "y": 37,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_g_2_2": {
+      "name": "hween_c20_eyesofa_64_g_2_2",
+      "x": 50,
+      "y": 37,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_h_2_1": {
+      "name": "hween_c20_eyesofa_64_h_2_1",
+      "x": -23,
+      "y": 42,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_h_2_2": {
+      "name": "hween_c20_eyesofa_64_h_2_2",
+      "x": -22,
+      "y": 43,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_i_2_1": {
+      "name": "hween_c20_eyesofa_64_i_2_1",
+      "x": 37,
+      "y": 12,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_i_2_2": {
+      "name": "hween_c20_eyesofa_64_i_2_2",
+      "x": 38,
+      "y": 13,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_j_2_1": {
+      "name": "hween_c20_eyesofa_64_j_2_1",
+      "x": 26,
+      "y": 45,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_j_2_2": {
+      "name": "hween_c20_eyesofa_64_j_2_2",
+      "x": 26,
+      "y": 45,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_k_2_1": {
+      "name": "hween_c20_eyesofa_64_k_2_1",
+      "x": 60,
+      "y": 22,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_k_2_2": {
+      "name": "hween_c20_eyesofa_64_k_2_2",
+      "x": 60,
+      "y": 22,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_k_6_1": {
+      "name": "hween_c20_eyesofa_64_k_6_1",
+      "x": 60,
+      "y": 22,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_k_6_2": {
+      "name": "hween_c20_eyesofa_64_k_6_2",
+      "x": 60,
+      "y": 22,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_l_2_1": {
+      "name": "hween_c20_eyesofa_64_l_2_1",
+      "x": -12,
+      "y": 46,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_l_2_2": {
+      "name": "hween_c20_eyesofa_64_l_2_2",
+      "x": -12,
+      "y": 46,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_m_2_1": {
+      "name": "hween_c20_eyesofa_64_m_2_1",
+      "x": 58,
+      "y": 0,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_m_2_2": {
+      "name": "hween_c20_eyesofa_64_m_2_2",
+      "x": 60,
+      "y": 1,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_m_6_1": {
+      "name": "hween_c20_eyesofa_64_m_6_1",
+      "x": 58,
+      "y": 0,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_m_6_2": {
+      "name": "hween_c20_eyesofa_64_m_6_2",
+      "x": 60,
+      "y": 1,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_2_1": {
+      "name": "hween_c20_eyesofa_64_n_2_1",
+      "x": -7,
+      "y": 16,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_n_2_2": {
+      "name": "hween_c20_eyesofa_64_n_2_2",
+      "x": 4,
+      "y": 18,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_n_2_3": {
+      "name": "hween_c20_eyesofa_64_n_2_3",
+      "x": 25,
+      "y": 17,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_n_2_4": {
+      "name": "hween_c20_eyesofa_64_n_2_4",
+      "x": 27,
+      "y": 18,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_n_2_5": {
+      "name": "hween_c20_eyesofa_64_n_2_5",
+      "x": 29,
+      "y": 13,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_2_6": {
+      "name": "hween_c20_eyesofa_64_n_2_6",
+      "x": 12,
+      "y": 15,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_2_7": {
+      "name": "hween_c20_eyesofa_64_n_2_7",
+      "x": -5,
+      "y": 22,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_2_8": {
+      "name": "hween_c20_eyesofa_64_n_2_8",
+      "x": -7,
+      "y": 19,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_o_2_1": {
+      "name": "hween_c20_eyesofa_64_o_2_1",
+      "x": 0,
+      "y": 20,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_o_2_2": {
+      "name": "hween_c20_eyesofa_64_o_2_2",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_o_2_3": {
+      "name": "hween_c20_eyesofa_64_o_2_3",
+      "x": 24,
+      "y": 4,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_o_2_4": {
+      "name": "hween_c20_eyesofa_64_o_2_4",
+      "x": 23,
+      "y": 5,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_o_2_5": {
+      "name": "hween_c20_eyesofa_64_o_2_5",
+      "x": 13,
+      "y": 0,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_o_2_6": {
+      "name": "hween_c20_eyesofa_64_o_2_6",
+      "x": 9,
+      "y": 15,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_o_2_7": {
+      "name": "hween_c20_eyesofa_64_o_2_7",
+      "x": 1,
+      "y": 17,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_o_2_8": {
+      "name": "hween_c20_eyesofa_64_o_2_8",
+      "x": 0,
+      "y": 20,
+      "exists": true
+    },
+    "hween_c20_eyesofa_icon_a": {
+      "name": "hween_c20_eyesofa_icon_a",
+      "x": 14,
+      "y": 10,
+      "exists": true
+    },
+    "hween_c20_eyesofa_64_sd_4_0": {
+      "name": "hween_c20_eyesofa_64_sd_4_0",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_sd_2_0",
+      "x": 66,
+      "y": 18,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_a_4_0": {
+      "name": "hween_c20_eyesofa_64_a_4_0",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_a_2_0",
+      "x": 44,
+      "y": 60,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_b_4_0": {
+      "name": "hween_c20_eyesofa_64_b_4_0",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_b_2_0",
+      "x": 58,
+      "y": 41,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_c_4_0": {
+      "name": "hween_c20_eyesofa_64_c_4_0",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_c_2_0",
+      "x": 71,
+      "y": 32,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_d_4_1": {
+      "name": "hween_c20_eyesofa_64_d_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_d_2_1",
+      "x": 54,
+      "y": 9,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_d_4_2": {
+      "name": "hween_c20_eyesofa_64_d_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_d_2_2",
+      "x": 55,
+      "y": 9,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_e_4_1": {
+      "name": "hween_c20_eyesofa_64_e_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_e_2_1",
+      "x": 42,
+      "y": 20,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_e_4_2": {
+      "name": "hween_c20_eyesofa_64_e_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_e_2_2",
+      "x": 42,
+      "y": 20,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_f_4_1": {
+      "name": "hween_c20_eyesofa_64_f_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_f_2_1",
+      "x": 1,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_f_4_2": {
+      "name": "hween_c20_eyesofa_64_f_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_f_2_2",
+      "x": 1,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_g_4_1": {
+      "name": "hween_c20_eyesofa_64_g_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_g_2_1",
+      "x": 50,
+      "y": 37,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_g_4_2": {
+      "name": "hween_c20_eyesofa_64_g_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_g_2_2",
+      "x": 50,
+      "y": 37,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_h_4_1": {
+      "name": "hween_c20_eyesofa_64_h_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_h_2_1",
+      "x": -23,
+      "y": 42,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_h_4_2": {
+      "name": "hween_c20_eyesofa_64_h_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_h_2_2",
+      "x": -22,
+      "y": 43,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_i_4_1": {
+      "name": "hween_c20_eyesofa_64_i_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_i_2_1",
+      "x": 37,
+      "y": 12,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_i_4_2": {
+      "name": "hween_c20_eyesofa_64_i_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_i_2_2",
+      "x": 38,
+      "y": 13,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_j_4_1": {
+      "name": "hween_c20_eyesofa_64_j_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_j_2_1",
+      "x": 26,
+      "y": 45,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_j_4_2": {
+      "name": "hween_c20_eyesofa_64_j_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_j_2_2",
+      "x": 26,
+      "y": 45,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_k_4_1": {
+      "name": "hween_c20_eyesofa_64_k_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_k_2_1",
+      "x": 60,
+      "y": 22,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_k_4_2": {
+      "name": "hween_c20_eyesofa_64_k_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_k_2_2",
+      "x": 60,
+      "y": 22,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_l_4_1": {
+      "name": "hween_c20_eyesofa_64_l_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_l_2_1",
+      "x": -12,
+      "y": 46,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_l_4_2": {
+      "name": "hween_c20_eyesofa_64_l_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_l_2_2",
+      "x": -12,
+      "y": 46,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_m_4_1": {
+      "name": "hween_c20_eyesofa_64_m_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_m_2_1",
+      "x": 58,
+      "y": 0,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_m_4_2": {
+      "name": "hween_c20_eyesofa_64_m_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_m_2_2",
+      "x": 60,
+      "y": 1,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_4_1": {
+      "name": "hween_c20_eyesofa_64_n_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_n_2_1",
+      "x": -7,
+      "y": 16,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_4_2": {
+      "name": "hween_c20_eyesofa_64_n_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_n_2_2",
+      "x": 4,
+      "y": 18,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_4_3": {
+      "name": "hween_c20_eyesofa_64_n_4_3",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_n_2_3",
+      "x": 25,
+      "y": 17,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_4_4": {
+      "name": "hween_c20_eyesofa_64_n_4_4",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_n_2_4",
+      "x": 27,
+      "y": 18,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_4_5": {
+      "name": "hween_c20_eyesofa_64_n_4_5",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_n_2_5",
+      "x": 29,
+      "y": 13,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_4_6": {
+      "name": "hween_c20_eyesofa_64_n_4_6",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_n_2_6",
+      "x": 12,
+      "y": 15,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_4_7": {
+      "name": "hween_c20_eyesofa_64_n_4_7",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_n_2_7",
+      "x": -5,
+      "y": 22,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_n_4_8": {
+      "name": "hween_c20_eyesofa_64_n_4_8",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_n_2_8",
+      "x": -7,
+      "y": 19,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_o_4_1": {
+      "name": "hween_c20_eyesofa_64_o_4_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_o_2_1",
+      "x": 0,
+      "y": 20,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_o_4_2": {
+      "name": "hween_c20_eyesofa_64_o_4_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_o_2_2",
+      "x": 9,
+      "y": 15,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_o_4_3": {
+      "name": "hween_c20_eyesofa_64_o_4_3",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_o_2_3",
+      "x": 24,
+      "y": 4,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_o_4_4": {
+      "name": "hween_c20_eyesofa_64_o_4_4",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_o_2_4",
+      "x": 23,
+      "y": 5,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_o_4_5": {
+      "name": "hween_c20_eyesofa_64_o_4_5",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_o_2_5",
+      "x": 13,
+      "y": 0,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_o_4_6": {
+      "name": "hween_c20_eyesofa_64_o_4_6",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_o_2_6",
+      "x": 9,
+      "y": 15,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_o_4_7": {
+      "name": "hween_c20_eyesofa_64_o_4_7",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_o_2_7",
+      "x": 1,
+      "y": 17,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_o_4_8": {
+      "name": "hween_c20_eyesofa_64_o_4_8",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_o_2_8",
+      "x": 0,
+      "y": 20,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_0_1": {
+      "name": "hween_c20_eyesofa_64_p_0_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_p_6_1",
+      "x": 31,
+      "y": 37,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_0_2": {
+      "name": "hween_c20_eyesofa_64_p_0_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_p_6_2",
+      "x": 42,
+      "y": 39,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_0_3": {
+      "name": "hween_c20_eyesofa_64_p_0_3",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_p_6_3",
+      "x": 63,
+      "y": 38,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_0_4": {
+      "name": "hween_c20_eyesofa_64_p_0_4",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_p_6_4",
+      "x": 65,
+      "y": 39,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_0_5": {
+      "name": "hween_c20_eyesofa_64_p_0_5",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_p_6_5",
+      "x": 67,
+      "y": 34,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_0_6": {
+      "name": "hween_c20_eyesofa_64_p_0_6",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_p_6_6",
+      "x": 50,
+      "y": 36,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_0_7": {
+      "name": "hween_c20_eyesofa_64_p_0_7",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_p_6_7",
+      "x": 33,
+      "y": 43,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_p_0_8": {
+      "name": "hween_c20_eyesofa_64_p_0_8",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_p_6_8",
+      "x": 31,
+      "y": 40,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_sd_0_0": {
+      "name": "hween_c20_eyesofa_64_sd_0_0",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_sd_6_0",
+      "x": 66,
+      "y": 18,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_a_0_0": {
+      "name": "hween_c20_eyesofa_64_a_0_0",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_a_6_0",
+      "x": 29,
+      "y": 61,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_b_0_0": {
+      "name": "hween_c20_eyesofa_64_b_0_0",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_b_6_0",
+      "x": 9,
+      "y": 45,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_c_0_0": {
+      "name": "hween_c20_eyesofa_64_c_0_0",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_c_6_0",
+      "x": 71,
+      "y": 31,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_d_0_1": {
+      "name": "hween_c20_eyesofa_64_d_0_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_d_6_1",
+      "x": 54,
+      "y": 9,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_d_0_2": {
+      "name": "hween_c20_eyesofa_64_d_0_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_d_6_2",
+      "x": 55,
+      "y": 9,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_e_0_1": {
+      "name": "hween_c20_eyesofa_64_e_0_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_e_6_1",
+      "x": 42,
+      "y": 20,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_e_0_2": {
+      "name": "hween_c20_eyesofa_64_e_0_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_e_6_2",
+      "x": 42,
+      "y": 20,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_f_0_1": {
+      "name": "hween_c20_eyesofa_64_f_0_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_f_6_1",
+      "x": 1,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_f_0_2": {
+      "name": "hween_c20_eyesofa_64_f_0_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_f_6_2",
+      "x": 1,
+      "y": 56,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_k_0_1": {
+      "name": "hween_c20_eyesofa_64_k_0_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_k_6_1",
+      "x": 60,
+      "y": 22,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_k_0_2": {
+      "name": "hween_c20_eyesofa_64_k_0_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_k_6_2",
+      "x": 60,
+      "y": 22,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_m_0_1": {
+      "name": "hween_c20_eyesofa_64_m_0_1",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_m_6_1",
+      "x": 58,
+      "y": 0,
+      "exists": false
+    },
+    "hween_c20_eyesofa_64_m_0_2": {
+      "name": "hween_c20_eyesofa_64_m_0_2",
+      "flipH": 1,
+      "source": "hween_c20_eyesofa_64_m_6_2",
+      "x": 60,
+      "y": 1,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 1.3
+    },
+    "directions": [
+      90,
+      270,
+      180,
+      0
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 16,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 10,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 11,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 12,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  1,
+                  2,
+                  1,
+                  0,
+                  0,
+                  1,
+                  2,
+                  2,
+                  2,
+                  2,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1,
+                  0,
+                  1,
+                  2,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 13,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 14,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 15,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1100
+        },
+        {
+          "layerId": 3,
+          "z": 1100
+        },
+        {
+          "layerId": 4,
+          "z": 1100
+        },
+        {
+          "layerId": 5
+        },
+        {
+          "layerId": 6,
+          "z": 1000
+        },
+        {
+          "layerId": 7
+        },
+        {
+          "layerId": 8,
+          "z": 1100
+        },
+        {
+          "layerId": 9
+        },
+        {
+          "layerId": 10,
+          "z": 1100
+        },
+        {
+          "layerId": 11
+        },
+        {
+          "layerId": 12,
+          "z": 1100
+        },
+        {
+          "layerId": 13,
+          "z": 1100
+        },
+        {
+          "layerId": 14
+        },
+        {
+          "layerId": 15,
+          "z": -1
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "hween_c20_eyesofa",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "assets": {
+    "antibully_machine_64_sd_0_0": {
+      "name": "antibully_machine_64_sd_0_0",
+      "x": 25,
+      "y": 11,
+      "exists": true
+    },
+    "antibully_machine_64_a_0_0": {
+      "name": "antibully_machine_64_a_0_0",
+      "x": 25,
+      "y": 46,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_1": {
+      "name": "antibully_machine_64_b_0_1",
+      "x": 17,
+      "y": 24,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_2": {
+      "name": "antibully_machine_64_b_0_2",
+      "x": 17,
+      "y": 34,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_3": {
+      "name": "antibully_machine_64_b_0_3",
+      "x": 17,
+      "y": 44,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_4": {
+      "name": "antibully_machine_64_b_0_4",
+      "x": 17,
+      "y": 54,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_5": {
+      "name": "antibully_machine_64_b_0_5",
+      "x": 17,
+      "y": 65,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_6": {
+      "name": "antibully_machine_64_b_0_6",
+      "x": 17,
+      "y": 64,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_7": {
+      "name": "antibully_machine_64_b_0_7",
+      "x": 17,
+      "y": 63,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_8": {
+      "name": "antibully_machine_64_b_0_8",
+      "x": 17,
+      "y": 53,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_9": {
+      "name": "antibully_machine_64_b_0_9",
+      "x": 17,
+      "y": 43,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_10": {
+      "name": "antibully_machine_64_b_0_10",
+      "x": 17,
+      "y": 33,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_11": {
+      "name": "antibully_machine_64_b_0_11",
+      "x": 17,
+      "y": 28,
+      "exists": true
+    },
+    "antibully_machine_64_b_0_12": {
+      "name": "antibully_machine_64_b_0_12",
+      "x": 17,
+      "y": 25,
+      "exists": true
+    },
+    "antibully_machine_64_c_0_0": {
+      "name": "antibully_machine_64_c_0_0",
+      "x": -5,
+      "y": 39,
+      "exists": true
+    },
+    "antibully_machine_64_d_0_0": {
+      "name": "antibully_machine_64_d_0_0",
+      "x": 21,
+      "y": 37,
+      "exists": true
+    },
+    "antibully_machine_icon_a": {
+      "name": "antibully_machine_icon_a",
+      "x": 9,
+      "y": 12,
+      "exists": true
+    },
+    "antibully_machine_64_sd_2_0": {
+      "name": "antibully_machine_64_sd_2_0",
+      "flipH": 1,
+      "source": "antibully_machine_64_sd_0_0",
+      "x": 25,
+      "y": 11,
+      "exists": false
+    },
+    "antibully_machine_64_a_2_0": {
+      "name": "antibully_machine_64_a_2_0",
+      "flipH": 1,
+      "source": "antibully_machine_64_a_0_0",
+      "x": 25,
+      "y": 46,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_1": {
+      "name": "antibully_machine_64_b_2_1",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_1",
+      "x": 17,
+      "y": 24,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_2": {
+      "name": "antibully_machine_64_b_2_2",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_2",
+      "x": 17,
+      "y": 34,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_3": {
+      "name": "antibully_machine_64_b_2_3",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_3",
+      "x": 17,
+      "y": 44,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_4": {
+      "name": "antibully_machine_64_b_2_4",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_4",
+      "x": 17,
+      "y": 54,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_5": {
+      "name": "antibully_machine_64_b_2_5",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_5",
+      "x": 17,
+      "y": 65,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_6": {
+      "name": "antibully_machine_64_b_2_6",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_6",
+      "x": 17,
+      "y": 64,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_7": {
+      "name": "antibully_machine_64_b_2_7",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_7",
+      "x": 17,
+      "y": 63,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_8": {
+      "name": "antibully_machine_64_b_2_8",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_8",
+      "x": 17,
+      "y": 53,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_9": {
+      "name": "antibully_machine_64_b_2_9",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_9",
+      "x": 17,
+      "y": 43,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_10": {
+      "name": "antibully_machine_64_b_2_10",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_10",
+      "x": 17,
+      "y": 33,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_11": {
+      "name": "antibully_machine_64_b_2_11",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_11",
+      "x": 17,
+      "y": 28,
+      "exists": false
+    },
+    "antibully_machine_64_b_2_12": {
+      "name": "antibully_machine_64_b_2_12",
+      "flipH": 1,
+      "source": "antibully_machine_64_b_0_12",
+      "x": 17,
+      "y": 25,
+      "exists": false
+    },
+    "antibully_machine_64_c_2_0": {
+      "name": "antibully_machine_64_c_2_0",
+      "flipH": 1,
+      "source": "antibully_machine_64_c_0_0",
+      "x": -5,
+      "y": 39,
+      "exists": false
+    },
+    "antibully_machine_64_d_2_0": {
+      "name": "antibully_machine_64_d_2_0",
+      "flipH": 1,
+      "source": "antibully_machine_64_d_0_0",
+      "x": 21,
+      "y": 37,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  6,
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "antibully_machine",
+    "visualization": "furniture_animated"
+  }
+}

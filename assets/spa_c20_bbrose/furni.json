@@ -1,0 +1,159 @@
+{
+  "assets": {
+    "spa_c20_bbrose_64_sd_2_0": {
+      "name": "spa_c20_bbrose_64_sd_2_0",
+      "x": 11,
+      "y": 4,
+      "exists": true
+    },
+    "spa_c20_bbrose_64_a_2_0": {
+      "name": "spa_c20_bbrose_64_a_2_0",
+      "x": 11,
+      "y": 10,
+      "exists": true
+    },
+    "spa_c20_bbrose_64_b_2_0": {
+      "name": "spa_c20_bbrose_64_b_2_0",
+      "x": 6,
+      "y": 8,
+      "exists": true
+    },
+    "spa_c20_bbrose_64_c_2_0": {
+      "name": "spa_c20_bbrose_64_c_2_0",
+      "x": 6,
+      "y": 8,
+      "exists": true
+    },
+    "spa_c20_bbrose_icon_a": {
+      "name": "spa_c20_bbrose_icon_a",
+      "x": 10,
+      "y": 7,
+      "exists": true
+    },
+    "spa_c20_bbrose_64_sd_4_0": {
+      "name": "spa_c20_bbrose_64_sd_4_0",
+      "flipH": 1,
+      "source": "spa_c20_bbrose_64_sd_2_0",
+      "x": 11,
+      "y": 4,
+      "exists": false
+    },
+    "spa_c20_bbrose_64_a_4_0": {
+      "name": "spa_c20_bbrose_64_a_4_0",
+      "flipH": 1,
+      "source": "spa_c20_bbrose_64_a_2_0",
+      "x": 11,
+      "y": 10,
+      "exists": false
+    },
+    "spa_c20_bbrose_64_b_4_0": {
+      "name": "spa_c20_bbrose_64_b_4_0",
+      "flipH": 1,
+      "source": "spa_c20_bbrose_64_b_2_0",
+      "x": 6,
+      "y": 8,
+      "exists": false
+    },
+    "spa_c20_bbrose_64_c_4_0": {
+      "name": "spa_c20_bbrose_64_c_4_0",
+      "flipH": 1,
+      "source": "spa_c20_bbrose_64_c_2_0",
+      "x": 6,
+      "y": 8,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.3
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  1,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1,
+                  0,
+                  1,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "ADD",
+          "alpha": 120
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "alpha": 120
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "spa_c20_bbrose",
+    "visualization": "furniture_animated"
+  }
+}

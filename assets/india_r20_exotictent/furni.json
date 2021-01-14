@@ -1,0 +1,805 @@
+{
+  "assets": {
+    "india_r20_exotictent_64_sd_0_0": {
+      "name": "india_r20_exotictent_64_sd_0_0",
+      "x": 65,
+      "y": 19,
+      "exists": true
+    },
+    "india_r20_exotictent_64_a_0_0": {
+      "name": "india_r20_exotictent_64_a_0_0",
+      "x": 36,
+      "y": 69,
+      "exists": true
+    },
+    "india_r20_exotictent_64_c_0_0": {
+      "name": "india_r20_exotictent_64_c_0_0",
+      "x": 63,
+      "y": 120,
+      "exists": true
+    },
+    "india_r20_exotictent_64_b_0_0": {
+      "name": "india_r20_exotictent_64_b_0_0",
+      "x": 29,
+      "y": 81,
+      "exists": true
+    },
+    "india_r20_exotictent_64_d_0_0": {
+      "name": "india_r20_exotictent_64_d_0_0",
+      "x": 38,
+      "y": 140,
+      "exists": true
+    },
+    "india_r20_exotictent_64_e_0_0": {
+      "name": "india_r20_exotictent_64_e_0_0",
+      "x": 64,
+      "y": 88,
+      "exists": true
+    },
+    "india_r20_exotictent_64_e_0_1": {
+      "name": "india_r20_exotictent_64_e_0_1",
+      "x": 63,
+      "y": 88,
+      "exists": true
+    },
+    "india_r20_exotictent_64_f_0_0": {
+      "name": "india_r20_exotictent_64_f_0_0",
+      "x": -18,
+      "y": 88,
+      "exists": true
+    },
+    "india_r20_exotictent_64_g_0_0": {
+      "name": "india_r20_exotictent_64_g_0_0",
+      "x": 44,
+      "y": 81,
+      "exists": true
+    },
+    "india_r20_exotictent_64_g_0_1": {
+      "name": "india_r20_exotictent_64_g_0_1",
+      "x": 43,
+      "y": 86,
+      "exists": true
+    },
+    "india_r20_exotictent_64_h_0_0": {
+      "name": "india_r20_exotictent_64_h_0_0",
+      "x": 62,
+      "y": 10,
+      "exists": true
+    },
+    "india_r20_exotictent_64_h_0_1": {
+      "name": "india_r20_exotictent_64_h_0_1",
+      "x": 60,
+      "y": 2,
+      "exists": true
+    },
+    "india_r20_exotictent_64_i_0_0": {
+      "name": "india_r20_exotictent_64_i_0_0",
+      "x": 28,
+      "y": -26,
+      "exists": true
+    },
+    "india_r20_exotictent_64_i_0_1": {
+      "name": "india_r20_exotictent_64_i_0_1",
+      "x": 21,
+      "y": -15,
+      "exists": true
+    },
+    "india_r20_exotictent_64_j_0_0": {
+      "name": "india_r20_exotictent_64_j_0_0",
+      "x": 57,
+      "y": 76,
+      "exists": true
+    },
+    "india_r20_exotictent_icon_a": {
+      "name": "india_r20_exotictent_icon_a",
+      "x": 10,
+      "y": 13,
+      "exists": true
+    },
+    "india_r20_exotictent_64_sd_2_0": {
+      "name": "india_r20_exotictent_64_sd_2_0",
+      "source": "india_r20_exotictent_64_sd_0_0",
+      "x": 65,
+      "y": 19,
+      "exists": false
+    },
+    "india_r20_exotictent_64_a_2_0": {
+      "name": "india_r20_exotictent_64_a_2_0",
+      "source": "india_r20_exotictent_64_a_0_0",
+      "x": 36,
+      "y": 69,
+      "exists": false
+    },
+    "india_r20_exotictent_64_c_2_0": {
+      "name": "india_r20_exotictent_64_c_2_0",
+      "source": "india_r20_exotictent_64_c_0_0",
+      "x": 63,
+      "y": 120,
+      "exists": false
+    },
+    "india_r20_exotictent_64_b_2_0": {
+      "name": "india_r20_exotictent_64_b_2_0",
+      "source": "india_r20_exotictent_64_b_0_0",
+      "x": 29,
+      "y": 81,
+      "exists": false
+    },
+    "india_r20_exotictent_64_d_2_0": {
+      "name": "india_r20_exotictent_64_d_2_0",
+      "source": "india_r20_exotictent_64_d_0_0",
+      "x": 38,
+      "y": 140,
+      "exists": false
+    },
+    "india_r20_exotictent_64_e_2_0": {
+      "name": "india_r20_exotictent_64_e_2_0",
+      "source": "india_r20_exotictent_64_e_0_0",
+      "x": 64,
+      "y": 88,
+      "exists": false
+    },
+    "india_r20_exotictent_64_e_2_1": {
+      "name": "india_r20_exotictent_64_e_2_1",
+      "source": "india_r20_exotictent_64_e_0_1",
+      "x": 63,
+      "y": 88,
+      "exists": false
+    },
+    "india_r20_exotictent_64_f_2_0": {
+      "name": "india_r20_exotictent_64_f_2_0",
+      "source": "india_r20_exotictent_64_f_0_0",
+      "x": -18,
+      "y": 88,
+      "exists": false
+    },
+    "india_r20_exotictent_64_g_2_0": {
+      "name": "india_r20_exotictent_64_g_2_0",
+      "source": "india_r20_exotictent_64_g_0_0",
+      "x": 44,
+      "y": 81,
+      "exists": false
+    },
+    "india_r20_exotictent_64_g_2_1": {
+      "name": "india_r20_exotictent_64_g_2_1",
+      "source": "india_r20_exotictent_64_g_0_1",
+      "x": 43,
+      "y": 86,
+      "exists": false
+    },
+    "india_r20_exotictent_64_h_2_0": {
+      "name": "india_r20_exotictent_64_h_2_0",
+      "source": "india_r20_exotictent_64_h_0_0",
+      "x": 62,
+      "y": 10,
+      "exists": false
+    },
+    "india_r20_exotictent_64_h_2_1": {
+      "name": "india_r20_exotictent_64_h_2_1",
+      "source": "india_r20_exotictent_64_h_0_1",
+      "x": 60,
+      "y": 2,
+      "exists": false
+    },
+    "india_r20_exotictent_64_i_2_0": {
+      "name": "india_r20_exotictent_64_i_2_0",
+      "source": "india_r20_exotictent_64_i_0_0",
+      "x": 28,
+      "y": -26,
+      "exists": false
+    },
+    "india_r20_exotictent_64_i_2_1": {
+      "name": "india_r20_exotictent_64_i_2_1",
+      "source": "india_r20_exotictent_64_i_0_1",
+      "x": 21,
+      "y": -15,
+      "exists": false
+    },
+    "india_r20_exotictent_64_j_2_0": {
+      "name": "india_r20_exotictent_64_j_2_0",
+      "source": "india_r20_exotictent_64_j_0_0",
+      "x": 57,
+      "y": 76,
+      "exists": false
+    },
+    "india_r20_exotictent_64_sd_4_0": {
+      "name": "india_r20_exotictent_64_sd_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_sd_0_0",
+      "x": 65,
+      "y": 19,
+      "exists": false
+    },
+    "india_r20_exotictent_64_a_4_0": {
+      "name": "india_r20_exotictent_64_a_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_a_0_0",
+      "x": 36,
+      "y": 69,
+      "exists": false
+    },
+    "india_r20_exotictent_64_c_4_0": {
+      "name": "india_r20_exotictent_64_c_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_c_0_0",
+      "x": 63,
+      "y": 120,
+      "exists": false
+    },
+    "india_r20_exotictent_64_b_4_0": {
+      "name": "india_r20_exotictent_64_b_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_b_0_0",
+      "x": 29,
+      "y": 81,
+      "exists": false
+    },
+    "india_r20_exotictent_64_d_4_0": {
+      "name": "india_r20_exotictent_64_d_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_d_0_0",
+      "x": 38,
+      "y": 140,
+      "exists": false
+    },
+    "india_r20_exotictent_64_e_4_0": {
+      "name": "india_r20_exotictent_64_e_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_e_0_0",
+      "x": 64,
+      "y": 88,
+      "exists": false
+    },
+    "india_r20_exotictent_64_e_4_1": {
+      "name": "india_r20_exotictent_64_e_4_1",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_e_0_1",
+      "x": 63,
+      "y": 88,
+      "exists": false
+    },
+    "india_r20_exotictent_64_f_4_0": {
+      "name": "india_r20_exotictent_64_f_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_f_0_0",
+      "x": -18,
+      "y": 88,
+      "exists": false
+    },
+    "india_r20_exotictent_64_g_4_0": {
+      "name": "india_r20_exotictent_64_g_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_g_0_0",
+      "x": 44,
+      "y": 81,
+      "exists": false
+    },
+    "india_r20_exotictent_64_g_4_1": {
+      "name": "india_r20_exotictent_64_g_4_1",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_g_0_1",
+      "x": 43,
+      "y": 86,
+      "exists": false
+    },
+    "india_r20_exotictent_64_h_4_0": {
+      "name": "india_r20_exotictent_64_h_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_h_0_0",
+      "x": 62,
+      "y": 10,
+      "exists": false
+    },
+    "india_r20_exotictent_64_h_4_1": {
+      "name": "india_r20_exotictent_64_h_4_1",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_h_0_1",
+      "x": 60,
+      "y": 2,
+      "exists": false
+    },
+    "india_r20_exotictent_64_i_4_0": {
+      "name": "india_r20_exotictent_64_i_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_i_0_0",
+      "x": 28,
+      "y": -26,
+      "exists": false
+    },
+    "india_r20_exotictent_64_i_4_1": {
+      "name": "india_r20_exotictent_64_i_4_1",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_i_0_1",
+      "x": 21,
+      "y": -15,
+      "exists": false
+    },
+    "india_r20_exotictent_64_j_4_0": {
+      "name": "india_r20_exotictent_64_j_4_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_j_0_0",
+      "x": 57,
+      "y": 76,
+      "exists": false
+    },
+    "india_r20_exotictent_64_sd_6_0": {
+      "name": "india_r20_exotictent_64_sd_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_sd_0_0",
+      "x": 65,
+      "y": 19,
+      "exists": false
+    },
+    "india_r20_exotictent_64_a_6_0": {
+      "name": "india_r20_exotictent_64_a_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_a_0_0",
+      "x": 36,
+      "y": 69,
+      "exists": false
+    },
+    "india_r20_exotictent_64_c_6_0": {
+      "name": "india_r20_exotictent_64_c_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_c_0_0",
+      "x": 63,
+      "y": 120,
+      "exists": false
+    },
+    "india_r20_exotictent_64_b_6_0": {
+      "name": "india_r20_exotictent_64_b_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_b_0_0",
+      "x": 29,
+      "y": 81,
+      "exists": false
+    },
+    "india_r20_exotictent_64_d_6_0": {
+      "name": "india_r20_exotictent_64_d_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_d_0_0",
+      "x": 38,
+      "y": 140,
+      "exists": false
+    },
+    "india_r20_exotictent_64_e_6_0": {
+      "name": "india_r20_exotictent_64_e_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_e_0_0",
+      "x": 64,
+      "y": 88,
+      "exists": false
+    },
+    "india_r20_exotictent_64_e_6_1": {
+      "name": "india_r20_exotictent_64_e_6_1",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_e_0_1",
+      "x": 63,
+      "y": 88,
+      "exists": false
+    },
+    "india_r20_exotictent_64_f_6_0": {
+      "name": "india_r20_exotictent_64_f_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_f_0_0",
+      "x": -18,
+      "y": 88,
+      "exists": false
+    },
+    "india_r20_exotictent_64_g_6_0": {
+      "name": "india_r20_exotictent_64_g_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_g_0_0",
+      "x": 44,
+      "y": 81,
+      "exists": false
+    },
+    "india_r20_exotictent_64_g_6_1": {
+      "name": "india_r20_exotictent_64_g_6_1",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_g_0_1",
+      "x": 43,
+      "y": 86,
+      "exists": false
+    },
+    "india_r20_exotictent_64_h_6_0": {
+      "name": "india_r20_exotictent_64_h_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_h_0_0",
+      "x": 62,
+      "y": 10,
+      "exists": false
+    },
+    "india_r20_exotictent_64_h_6_1": {
+      "name": "india_r20_exotictent_64_h_6_1",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_h_0_1",
+      "x": 60,
+      "y": 2,
+      "exists": false
+    },
+    "india_r20_exotictent_64_i_6_0": {
+      "name": "india_r20_exotictent_64_i_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_i_0_0",
+      "x": 28,
+      "y": -26,
+      "exists": false
+    },
+    "india_r20_exotictent_64_i_6_1": {
+      "name": "india_r20_exotictent_64_i_6_1",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_i_0_1",
+      "x": 21,
+      "y": -15,
+      "exists": false
+    },
+    "india_r20_exotictent_64_j_6_0": {
+      "name": "india_r20_exotictent_64_j_6_0",
+      "flipH": 1,
+      "source": "india_r20_exotictent_64_j_0_0",
+      "x": 57,
+      "y": 76,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0.5
+    },
+    "directions": [
+      0,
+      90,
+      180,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 10,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": []
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": []
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": []
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 6,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 7,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 8,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 9,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1500
+        },
+        {
+          "layerId": 3,
+          "z": 2500
+        },
+        {
+          "layerId": 4,
+          "z": 1500
+        },
+        {
+          "layerId": 5,
+          "ink": "COPY",
+          "z": 1500
+        },
+        {
+          "layerId": 6,
+          "ink": "COPY",
+          "z": 2500
+        },
+        {
+          "layerId": 7,
+          "ink": "ADD",
+          "z": 1500
+        },
+        {
+          "layerId": 8,
+          "ink": "ADD",
+          "z": 2500
+        },
+        {
+          "layerId": 9,
+          "ink": "ADD",
+          "z": 2500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "india_r20_exotictent",
+    "visualization": "furniture_animated"
+  }
+}

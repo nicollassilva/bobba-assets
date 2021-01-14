@@ -1,0 +1,370 @@
+{
+  "assets": {
+    "booster_c20_box_64_sd_4_0": {
+      "name": "booster_c20_box_64_sd_4_0",
+      "x": 26,
+      "y": 16,
+      "exists": true
+    },
+    "booster_c20_box_64_a_4_0": {
+      "name": "booster_c20_box_64_a_4_0",
+      "x": 26,
+      "y": 45,
+      "exists": true
+    },
+    "booster_c20_box_icon_a": {
+      "name": "booster_c20_box_icon_a",
+      "x": 12,
+      "y": 12,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_0": {
+      "name": "booster_c20_box_64_b_4_0",
+      "x": 15,
+      "y": 17,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_1": {
+      "name": "booster_c20_box_64_b_4_1",
+      "x": 23,
+      "y": 29,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_2": {
+      "name": "booster_c20_box_64_b_4_2",
+      "x": 31,
+      "y": 50,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_3": {
+      "name": "booster_c20_box_64_b_4_3",
+      "x": 35,
+      "y": 50,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_4": {
+      "name": "booster_c20_box_64_b_4_4",
+      "x": 31,
+      "y": 50,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_5": {
+      "name": "booster_c20_box_64_b_4_5",
+      "x": 31,
+      "y": 50,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_6": {
+      "name": "booster_c20_box_64_b_4_6",
+      "x": 31,
+      "y": 50,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_7": {
+      "name": "booster_c20_box_64_b_4_7",
+      "x": 26,
+      "y": 42,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_8": {
+      "name": "booster_c20_box_64_b_4_8",
+      "x": 16,
+      "y": 32,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_9": {
+      "name": "booster_c20_box_64_b_4_9",
+      "x": 9,
+      "y": 25,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_10": {
+      "name": "booster_c20_box_64_b_4_10",
+      "x": 36,
+      "y": 52,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_11": {
+      "name": "booster_c20_box_64_b_4_11",
+      "x": 44,
+      "y": 59,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_12": {
+      "name": "booster_c20_box_64_b_4_12",
+      "x": 49,
+      "y": 64,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_13": {
+      "name": "booster_c20_box_64_b_4_13",
+      "x": 43,
+      "y": 57,
+      "exists": true
+    },
+    "booster_c20_box_64_b_4_14": {
+      "name": "booster_c20_box_64_b_4_14",
+      "x": 41,
+      "y": 58,
+      "exists": true
+    },
+    "booster_c20_box_64_sd_2_0": {
+      "name": "booster_c20_box_64_sd_2_0",
+      "flipH": 1,
+      "source": "booster_c20_box_64_sd_4_0",
+      "x": 26,
+      "y": 16,
+      "exists": false
+    },
+    "booster_c20_box_64_a_2_0": {
+      "name": "booster_c20_box_64_a_2_0",
+      "flipH": 1,
+      "source": "booster_c20_box_64_a_4_0",
+      "x": 26,
+      "y": 45,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_0": {
+      "name": "booster_c20_box_64_b_2_0",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_0",
+      "x": 15,
+      "y": 17,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_1": {
+      "name": "booster_c20_box_64_b_2_1",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_1",
+      "x": 23,
+      "y": 29,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_2": {
+      "name": "booster_c20_box_64_b_2_2",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_2",
+      "x": 31,
+      "y": 50,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_3": {
+      "name": "booster_c20_box_64_b_2_3",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_3",
+      "x": 35,
+      "y": 50,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_4": {
+      "name": "booster_c20_box_64_b_2_4",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_4",
+      "x": 31,
+      "y": 50,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_5": {
+      "name": "booster_c20_box_64_b_2_5",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_5",
+      "x": 31,
+      "y": 50,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_6": {
+      "name": "booster_c20_box_64_b_2_6",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_6",
+      "x": 31,
+      "y": 50,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_7": {
+      "name": "booster_c20_box_64_b_2_7",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_7",
+      "x": 26,
+      "y": 42,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_8": {
+      "name": "booster_c20_box_64_b_2_8",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_8",
+      "x": 16,
+      "y": 32,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_9": {
+      "name": "booster_c20_box_64_b_2_9",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_9",
+      "x": 9,
+      "y": 25,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_10": {
+      "name": "booster_c20_box_64_b_2_10",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_10",
+      "x": 36,
+      "y": 52,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_11": {
+      "name": "booster_c20_box_64_b_2_11",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_11",
+      "x": 44,
+      "y": 59,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_12": {
+      "name": "booster_c20_box_64_b_2_12",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_12",
+      "x": 49,
+      "y": 64,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_13": {
+      "name": "booster_c20_box_64_b_2_13",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_13",
+      "x": 43,
+      "y": 57,
+      "exists": false
+    },
+    "booster_c20_box_64_b_2_14": {
+      "name": "booster_c20_box_64_b_2_14",
+      "flipH": 1,
+      "source": "booster_c20_box_64_b_4_14",
+      "x": 41,
+      "y": 58,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  15
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  15
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13,
+                  14,
+                  15
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_crackable",
+    "type": "booster_c20_box",
+    "visualization": "furniture_animated"
+  }
+}

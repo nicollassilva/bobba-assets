@@ -1,0 +1,903 @@
+{
+  "assets": {
+    "rare_r20_wardrobe_64_sd_2_0": {
+      "name": "rare_r20_wardrobe_64_sd_2_0",
+      "x": 55,
+      "y": 10,
+      "exists": true
+    },
+    "rare_r20_wardrobe_icon_a": {
+      "name": "rare_r20_wardrobe_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_a_2_0": {
+      "name": "rare_r20_wardrobe_64_a_2_0",
+      "x": 30,
+      "y": 101,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_b_2_0": {
+      "name": "rare_r20_wardrobe_64_b_2_0",
+      "x": 59,
+      "y": 95,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_a_2_1": {
+      "name": "rare_r20_wardrobe_64_a_2_1",
+      "x": 30,
+      "y": 101,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_b_2_1": {
+      "name": "rare_r20_wardrobe_64_b_2_1",
+      "x": 59,
+      "y": 95,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_c_2_0": {
+      "name": "rare_r20_wardrobe_64_c_2_0",
+      "x": 2,
+      "y": 79,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_c_2_1": {
+      "name": "rare_r20_wardrobe_64_c_2_1",
+      "x": 2,
+      "y": 78,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_c_2_2": {
+      "name": "rare_r20_wardrobe_64_c_2_2",
+      "x": -14,
+      "y": 69,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_c_2_3": {
+      "name": "rare_r20_wardrobe_64_c_2_3",
+      "x": -15,
+      "y": 80,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_c_2_4": {
+      "name": "rare_r20_wardrobe_64_c_2_4",
+      "x": -15,
+      "y": 80,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_e_2_0": {
+      "name": "rare_r20_wardrobe_64_e_2_0",
+      "x": 6,
+      "y": 29,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_e_2_1": {
+      "name": "rare_r20_wardrobe_64_e_2_1",
+      "x": 20,
+      "y": 27,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_e_2_2": {
+      "name": "rare_r20_wardrobe_64_e_2_2",
+      "x": 20,
+      "y": 27,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_e_2_3": {
+      "name": "rare_r20_wardrobe_64_e_2_3",
+      "x": 20,
+      "y": 27,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_e_2_4": {
+      "name": "rare_r20_wardrobe_64_e_2_4",
+      "x": 20,
+      "y": 27,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_e_2_5": {
+      "name": "rare_r20_wardrobe_64_e_2_5",
+      "x": 20,
+      "y": 47,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_e_2_6": {
+      "name": "rare_r20_wardrobe_64_e_2_6",
+      "x": 7,
+      "y": -13,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_e_2_7": {
+      "name": "rare_r20_wardrobe_64_e_2_7",
+      "x": -1,
+      "y": -16,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_e_2_8": {
+      "name": "rare_r20_wardrobe_64_e_2_8",
+      "x": -1,
+      "y": -16,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_0": {
+      "name": "rare_r20_wardrobe_64_f_2_0",
+      "x": 11,
+      "y": 51,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_1": {
+      "name": "rare_r20_wardrobe_64_f_2_1",
+      "x": 7,
+      "y": 47,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_2": {
+      "name": "rare_r20_wardrobe_64_f_2_2",
+      "x": 11,
+      "y": 60,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_3": {
+      "name": "rare_r20_wardrobe_64_f_2_3",
+      "x": 8,
+      "y": 57,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_4": {
+      "name": "rare_r20_wardrobe_64_f_2_4",
+      "x": 0,
+      "y": 51,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_5": {
+      "name": "rare_r20_wardrobe_64_f_2_5",
+      "x": -7,
+      "y": 53,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_6": {
+      "name": "rare_r20_wardrobe_64_f_2_6",
+      "x": -11,
+      "y": 54,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_7": {
+      "name": "rare_r20_wardrobe_64_f_2_7",
+      "x": -22,
+      "y": 49,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_8": {
+      "name": "rare_r20_wardrobe_64_f_2_8",
+      "x": 11,
+      "y": 50,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_9": {
+      "name": "rare_r20_wardrobe_64_f_2_9",
+      "x": 5,
+      "y": 36,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_2_10": {
+      "name": "rare_r20_wardrobe_64_f_2_10",
+      "x": -6,
+      "y": 33,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_2_11": {
+      "name": "rare_r20_wardrobe_64_f_2_11",
+      "x": -17,
+      "y": 31,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_2_12": {
+      "name": "rare_r20_wardrobe_64_f_2_12",
+      "x": -20,
+      "y": 32,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_f_2_13": {
+      "name": "rare_r20_wardrobe_64_f_2_13",
+      "x": -31,
+      "y": 29,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_d_2_0": {
+      "name": "rare_r20_wardrobe_64_d_2_0",
+      "x": 26,
+      "y": 76,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_d_2_1": {
+      "name": "rare_r20_wardrobe_64_d_2_1",
+      "x": 26,
+      "y": 75,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_d_2_2": {
+      "name": "rare_r20_wardrobe_64_d_2_2",
+      "x": 23,
+      "y": 54,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_d_2_3": {
+      "name": "rare_r20_wardrobe_64_d_2_3",
+      "x": 26,
+      "y": 50,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_d_2_4": {
+      "name": "rare_r20_wardrobe_64_d_2_4",
+      "x": 26,
+      "y": 50,
+      "exists": true
+    },
+    "rare_r20_wardrobe_64_sd_4_0": {
+      "name": "rare_r20_wardrobe_64_sd_4_0",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_sd_2_0",
+      "x": 55,
+      "y": 10,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_a_4_0": {
+      "name": "rare_r20_wardrobe_64_a_4_0",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_a_2_0",
+      "x": 30,
+      "y": 101,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_b_4_0": {
+      "name": "rare_r20_wardrobe_64_b_4_0",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_b_2_0",
+      "x": 59,
+      "y": 95,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_a_4_1": {
+      "name": "rare_r20_wardrobe_64_a_4_1",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_a_2_1",
+      "x": 30,
+      "y": 101,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_b_4_1": {
+      "name": "rare_r20_wardrobe_64_b_4_1",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_b_2_1",
+      "x": 59,
+      "y": 95,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_c_4_0": {
+      "name": "rare_r20_wardrobe_64_c_4_0",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_c_2_0",
+      "x": 2,
+      "y": 79,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_c_4_1": {
+      "name": "rare_r20_wardrobe_64_c_4_1",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_c_2_1",
+      "x": 2,
+      "y": 78,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_c_4_2": {
+      "name": "rare_r20_wardrobe_64_c_4_2",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_c_2_2",
+      "x": -14,
+      "y": 69,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_c_4_3": {
+      "name": "rare_r20_wardrobe_64_c_4_3",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_c_2_3",
+      "x": -15,
+      "y": 80,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_c_4_4": {
+      "name": "rare_r20_wardrobe_64_c_4_4",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_c_2_4",
+      "x": -15,
+      "y": 80,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_e_4_0": {
+      "name": "rare_r20_wardrobe_64_e_4_0",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_e_2_0",
+      "x": 6,
+      "y": 29,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_e_4_1": {
+      "name": "rare_r20_wardrobe_64_e_4_1",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_e_2_1",
+      "x": 20,
+      "y": 27,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_e_4_2": {
+      "name": "rare_r20_wardrobe_64_e_4_2",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_e_2_2",
+      "x": 20,
+      "y": 27,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_e_4_3": {
+      "name": "rare_r20_wardrobe_64_e_4_3",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_e_2_3",
+      "x": 20,
+      "y": 27,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_e_4_4": {
+      "name": "rare_r20_wardrobe_64_e_4_4",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_e_2_4",
+      "x": 20,
+      "y": 27,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_e_4_5": {
+      "name": "rare_r20_wardrobe_64_e_4_5",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_e_2_5",
+      "x": 20,
+      "y": 47,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_e_4_6": {
+      "name": "rare_r20_wardrobe_64_e_4_6",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_e_2_6",
+      "x": 7,
+      "y": -13,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_e_4_7": {
+      "name": "rare_r20_wardrobe_64_e_4_7",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_e_2_7",
+      "x": -1,
+      "y": -16,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_e_4_8": {
+      "name": "rare_r20_wardrobe_64_e_4_8",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_e_2_8",
+      "x": -1,
+      "y": -16,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_0": {
+      "name": "rare_r20_wardrobe_64_f_4_0",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_0",
+      "x": 11,
+      "y": 51,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_1": {
+      "name": "rare_r20_wardrobe_64_f_4_1",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_1",
+      "x": 7,
+      "y": 47,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_2": {
+      "name": "rare_r20_wardrobe_64_f_4_2",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_2",
+      "x": 11,
+      "y": 60,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_3": {
+      "name": "rare_r20_wardrobe_64_f_4_3",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_3",
+      "x": 8,
+      "y": 57,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_4": {
+      "name": "rare_r20_wardrobe_64_f_4_4",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_4",
+      "x": 0,
+      "y": 51,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_5": {
+      "name": "rare_r20_wardrobe_64_f_4_5",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_5",
+      "x": -7,
+      "y": 53,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_6": {
+      "name": "rare_r20_wardrobe_64_f_4_6",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_6",
+      "x": -11,
+      "y": 54,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_7": {
+      "name": "rare_r20_wardrobe_64_f_4_7",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_7",
+      "x": -22,
+      "y": 49,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_8": {
+      "name": "rare_r20_wardrobe_64_f_4_8",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_8",
+      "x": 11,
+      "y": 50,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_9": {
+      "name": "rare_r20_wardrobe_64_f_4_9",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_9",
+      "x": 5,
+      "y": 36,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_10": {
+      "name": "rare_r20_wardrobe_64_f_4_10",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_10",
+      "x": -6,
+      "y": 33,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_11": {
+      "name": "rare_r20_wardrobe_64_f_4_11",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_11",
+      "x": -17,
+      "y": 31,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_12": {
+      "name": "rare_r20_wardrobe_64_f_4_12",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_12",
+      "x": -20,
+      "y": 32,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_f_4_13": {
+      "name": "rare_r20_wardrobe_64_f_4_13",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_f_2_13",
+      "x": -31,
+      "y": 29,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_d_4_0": {
+      "name": "rare_r20_wardrobe_64_d_4_0",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_d_2_0",
+      "x": 26,
+      "y": 76,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_d_4_1": {
+      "name": "rare_r20_wardrobe_64_d_4_1",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_d_2_1",
+      "x": 26,
+      "y": 75,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_d_4_2": {
+      "name": "rare_r20_wardrobe_64_d_4_2",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_d_2_2",
+      "x": 23,
+      "y": 54,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_d_4_3": {
+      "name": "rare_r20_wardrobe_64_d_4_3",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_d_2_3",
+      "x": 26,
+      "y": 50,
+      "exists": false
+    },
+    "rare_r20_wardrobe_64_d_4_4": {
+      "name": "rare_r20_wardrobe_64_d_4_4",
+      "flipH": 1,
+      "source": "rare_r20_wardrobe_64_d_2_4",
+      "x": 26,
+      "y": 50,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 1,
+      "z": 3
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 6,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  14
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  14
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  3,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  3,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  14
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  0,
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  9,
+                  9,
+                  0,
+                  1,
+                  1,
+                  2,
+                  3,
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  14,
+                  14,
+                  14,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  13
+                ]
+              ]
+            }
+          ]
+        },
+        "100": {
+          "id": 100,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  4,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  4,
+                  2,
+                  1,
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  5,
+                  6,
+                  7,
+                  8,
+                  9
+                ]
+              ]
+            },
+            {
+              "layerId": 5,
+              "frameSequence": [
+                [
+                  14
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1000
+        },
+        {
+          "layerId": 3,
+          "z": 1500
+        },
+        {
+          "layerId": 4,
+          "z": 1000
+        },
+        {
+          "layerId": 5,
+          "z": 1500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "rare_r20_wardrobe",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "assets": {
+    "india_c20_flowerbelldeco_64_sd_4_0": {
+      "name": "india_c20_flowerbelldeco_64_sd_4_0",
+      "x": 51,
+      "y": 10,
+      "exists": true
+    },
+    "india_c20_flowerbelldeco_64_a_4_0": {
+      "name": "india_c20_flowerbelldeco_64_a_4_0",
+      "x": 14,
+      "y": 140,
+      "exists": true
+    },
+    "india_c20_flowerbelldeco_64_b_4_0": {
+      "name": "india_c20_flowerbelldeco_64_b_4_0",
+      "x": 52,
+      "y": 107,
+      "exists": true
+    },
+    "india_c20_flowerbelldeco_icon_a": {
+      "name": "india_c20_flowerbelldeco_icon_a",
+      "x": 14,
+      "y": 10,
+      "exists": true
+    },
+    "india_c20_flowerbelldeco_64_sd_2_0": {
+      "name": "india_c20_flowerbelldeco_64_sd_2_0",
+      "flipH": 1,
+      "source": "india_c20_flowerbelldeco_64_sd_4_0",
+      "x": 51,
+      "y": 10,
+      "exists": false
+    },
+    "india_c20_flowerbelldeco_64_a_2_0": {
+      "name": "india_c20_flowerbelldeco_64_a_2_0",
+      "flipH": 1,
+      "source": "india_c20_flowerbelldeco_64_a_4_0",
+      "x": 14,
+      "y": 140,
+      "exists": false
+    },
+    "india_c20_flowerbelldeco_64_b_2_0": {
+      "name": "india_c20_flowerbelldeco_64_b_2_0",
+      "flipH": 1,
+      "source": "india_c20_flowerbelldeco_64_b_4_0",
+      "x": 52,
+      "y": 107,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 0
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": 10
+        },
+        {
+          "layerId": 1,
+          "z": 1510
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "india_c20_flowerbelldeco",
+    "visualization": "furniture_animated"
+  }
+}

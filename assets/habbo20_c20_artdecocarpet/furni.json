@@ -1,0 +1,278 @@
+{
+  "assets": {
+    "habbo20_c20_artdecocarpet_64_sd_0_0": {
+      "name": "habbo20_c20_artdecocarpet_64_sd_0_0",
+      "x": 64,
+      "y": 15,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_64_a_0_0": {
+      "name": "habbo20_c20_artdecocarpet_64_a_0_0",
+      "x": 66,
+      "y": 20,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_64_b_0_0": {
+      "name": "habbo20_c20_artdecocarpet_64_b_0_0",
+      "x": 65,
+      "y": 19,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_64_c_0_0": {
+      "name": "habbo20_c20_artdecocarpet_64_c_0_0",
+      "x": 56,
+      "y": 16,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_64_c_0_1": {
+      "name": "habbo20_c20_artdecocarpet_64_c_0_1",
+      "x": 56,
+      "y": 16,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_64_c_0_2": {
+      "name": "habbo20_c20_artdecocarpet_64_c_0_2",
+      "x": 55,
+      "y": 16,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_64_c_0_3": {
+      "name": "habbo20_c20_artdecocarpet_64_c_0_3",
+      "x": 58,
+      "y": 16,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_64_c_0_4": {
+      "name": "habbo20_c20_artdecocarpet_64_c_0_4",
+      "x": 58,
+      "y": 10,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_64_c_0_5": {
+      "name": "habbo20_c20_artdecocarpet_64_c_0_5",
+      "x": 58,
+      "y": 16,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_64_d_0_0": {
+      "name": "habbo20_c20_artdecocarpet_64_d_0_0",
+      "x": 63,
+      "y": 18,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_icon_a": {
+      "name": "habbo20_c20_artdecocarpet_icon_a",
+      "x": 9,
+      "y": 14,
+      "exists": true
+    },
+    "habbo20_c20_artdecocarpet_64_sd_2_0": {
+      "name": "habbo20_c20_artdecocarpet_64_sd_2_0",
+      "flipH": 1,
+      "source": "habbo20_c20_artdecocarpet_64_sd_0_0",
+      "x": 64,
+      "y": 15,
+      "exists": false
+    },
+    "habbo20_c20_artdecocarpet_64_a_2_0": {
+      "name": "habbo20_c20_artdecocarpet_64_a_2_0",
+      "flipH": 1,
+      "source": "habbo20_c20_artdecocarpet_64_a_0_0",
+      "x": 66,
+      "y": 20,
+      "exists": false
+    },
+    "habbo20_c20_artdecocarpet_64_b_2_0": {
+      "name": "habbo20_c20_artdecocarpet_64_b_2_0",
+      "flipH": 1,
+      "source": "habbo20_c20_artdecocarpet_64_b_0_0",
+      "x": 65,
+      "y": 19,
+      "exists": false
+    },
+    "habbo20_c20_artdecocarpet_64_c_2_0": {
+      "name": "habbo20_c20_artdecocarpet_64_c_2_0",
+      "flipH": 1,
+      "source": "habbo20_c20_artdecocarpet_64_c_0_0",
+      "x": 56,
+      "y": 16,
+      "exists": false
+    },
+    "habbo20_c20_artdecocarpet_64_c_2_1": {
+      "name": "habbo20_c20_artdecocarpet_64_c_2_1",
+      "flipH": 1,
+      "source": "habbo20_c20_artdecocarpet_64_c_0_1",
+      "x": 56,
+      "y": 16,
+      "exists": false
+    },
+    "habbo20_c20_artdecocarpet_64_c_2_2": {
+      "name": "habbo20_c20_artdecocarpet_64_c_2_2",
+      "flipH": 1,
+      "source": "habbo20_c20_artdecocarpet_64_c_0_2",
+      "x": 55,
+      "y": 16,
+      "exists": false
+    },
+    "habbo20_c20_artdecocarpet_64_c_2_3": {
+      "name": "habbo20_c20_artdecocarpet_64_c_2_3",
+      "flipH": 1,
+      "source": "habbo20_c20_artdecocarpet_64_c_0_3",
+      "x": 58,
+      "y": 16,
+      "exists": false
+    },
+    "habbo20_c20_artdecocarpet_64_c_2_4": {
+      "name": "habbo20_c20_artdecocarpet_64_c_2_4",
+      "flipH": 1,
+      "source": "habbo20_c20_artdecocarpet_64_c_0_4",
+      "x": 58,
+      "y": 10,
+      "exists": false
+    },
+    "habbo20_c20_artdecocarpet_64_c_2_5": {
+      "name": "habbo20_c20_artdecocarpet_64_c_2_5",
+      "flipH": 1,
+      "source": "habbo20_c20_artdecocarpet_64_c_0_5",
+      "x": 58,
+      "y": 16,
+      "exists": false
+    },
+    "habbo20_c20_artdecocarpet_64_d_2_0": {
+      "name": "habbo20_c20_artdecocarpet_64_d_2_0",
+      "flipH": 1,
+      "source": "habbo20_c20_artdecocarpet_64_d_0_0",
+      "x": 63,
+      "y": 18,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 3,
+      "y": 2,
+      "z": 0.1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -10000
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY",
+          "z": -1000
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD",
+          "z": -1000
+        },
+        {
+          "layerId": 3,
+          "z": -1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "habbo20_c20_artdecocarpet",
+    "visualization": "furniture_animated"
+  }
+}

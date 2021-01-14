@@ -1,0 +1,1253 @@
+{
+  "assets": {
+    "easter_c20_mountainslopes_64_a_0_0": {
+      "name": "easter_c20_mountainslopes_64_a_0_0",
+      "x": 67,
+      "y": 23,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_b_0_0": {
+      "name": "easter_c20_mountainslopes_64_b_0_0",
+      "x": 39,
+      "y": 25,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_0_0": {
+      "name": "easter_c20_mountainslopes_64_c_0_0",
+      "x": 66,
+      "y": 8,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_0_0": {
+      "name": "easter_c20_mountainslopes_64_d_0_0",
+      "x": 35,
+      "y": -13,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_4_0": {
+      "name": "easter_c20_mountainslopes_64_a_4_0",
+      "x": 67,
+      "y": 23,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_4_0": {
+      "name": "easter_c20_mountainslopes_64_b_4_0",
+      "x": 39,
+      "y": 25,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_4_0": {
+      "name": "easter_c20_mountainslopes_64_c_4_0",
+      "x": 66,
+      "y": 8,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_4_0": {
+      "name": "easter_c20_mountainslopes_64_d_4_0",
+      "x": 35,
+      "y": -13,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_0_1": {
+      "name": "easter_c20_mountainslopes_64_a_0_1",
+      "x": 72,
+      "y": 55,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_b_0_1": {
+      "name": "easter_c20_mountainslopes_64_b_0_1",
+      "x": 34,
+      "y": 59,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_0_1": {
+      "name": "easter_c20_mountainslopes_64_c_0_1",
+      "x": 68,
+      "y": 49,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_0_1": {
+      "name": "easter_c20_mountainslopes_64_d_0_1",
+      "x": 35,
+      "y": 16,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_4_1": {
+      "name": "easter_c20_mountainslopes_64_a_4_1",
+      "x": 72,
+      "y": 55,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_4_1": {
+      "name": "easter_c20_mountainslopes_64_b_4_1",
+      "x": 34,
+      "y": 59,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_4_1": {
+      "name": "easter_c20_mountainslopes_64_c_4_1",
+      "x": 68,
+      "y": 49,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_4_1": {
+      "name": "easter_c20_mountainslopes_64_d_4_1",
+      "x": 35,
+      "y": 16,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_0_2": {
+      "name": "easter_c20_mountainslopes_64_a_0_2",
+      "x": 71,
+      "y": 91,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_b_0_2": {
+      "name": "easter_c20_mountainslopes_64_b_0_2",
+      "x": 34,
+      "y": 95,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_0_2": {
+      "name": "easter_c20_mountainslopes_64_c_0_2",
+      "x": 68,
+      "y": 85,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_0_2": {
+      "name": "easter_c20_mountainslopes_64_d_0_2",
+      "x": 35,
+      "y": 51,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_4_2": {
+      "name": "easter_c20_mountainslopes_64_a_4_2",
+      "x": 71,
+      "y": 91,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_4_2": {
+      "name": "easter_c20_mountainslopes_64_b_4_2",
+      "x": 34,
+      "y": 95,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_4_2": {
+      "name": "easter_c20_mountainslopes_64_c_4_2",
+      "x": 68,
+      "y": 85,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_4_2": {
+      "name": "easter_c20_mountainslopes_64_d_4_2",
+      "x": 35,
+      "y": 51,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_0_3": {
+      "name": "easter_c20_mountainslopes_64_a_0_3",
+      "x": 71,
+      "y": 127,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_b_0_3": {
+      "name": "easter_c20_mountainslopes_64_b_0_3",
+      "x": 29,
+      "y": 131,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_0_3": {
+      "name": "easter_c20_mountainslopes_64_c_0_3",
+      "x": 68,
+      "y": 121,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_0_3": {
+      "name": "easter_c20_mountainslopes_64_d_0_3",
+      "x": 35,
+      "y": 89,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_4_3": {
+      "name": "easter_c20_mountainslopes_64_a_4_3",
+      "x": 71,
+      "y": 127,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_4_3": {
+      "name": "easter_c20_mountainslopes_64_b_4_3",
+      "x": 29,
+      "y": 131,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_4_3": {
+      "name": "easter_c20_mountainslopes_64_c_4_3",
+      "x": 68,
+      "y": 121,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_4_3": {
+      "name": "easter_c20_mountainslopes_64_d_4_3",
+      "x": 35,
+      "y": 89,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_0_4": {
+      "name": "easter_c20_mountainslopes_64_a_0_4",
+      "x": 72,
+      "y": 163,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_0_4": {
+      "name": "easter_c20_mountainslopes_64_b_0_4",
+      "x": 26,
+      "y": 167,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_0_4": {
+      "name": "easter_c20_mountainslopes_64_c_0_4",
+      "x": 69,
+      "y": 161,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_0_4": {
+      "name": "easter_c20_mountainslopes_64_d_0_4",
+      "x": 35,
+      "y": 131,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_4_4": {
+      "name": "easter_c20_mountainslopes_64_a_4_4",
+      "x": 72,
+      "y": 163,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_b_4_4": {
+      "name": "easter_c20_mountainslopes_64_b_4_4",
+      "x": 26,
+      "y": 167,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_4_4": {
+      "name": "easter_c20_mountainslopes_64_c_4_4",
+      "x": 69,
+      "y": 161,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_4_4": {
+      "name": "easter_c20_mountainslopes_64_d_4_4",
+      "x": 35,
+      "y": 131,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_0_5": {
+      "name": "easter_c20_mountainslopes_64_a_0_5",
+      "x": 72,
+      "y": 199,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_0_5": {
+      "name": "easter_c20_mountainslopes_64_b_0_5",
+      "x": 26,
+      "y": 203,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_0_5": {
+      "name": "easter_c20_mountainslopes_64_c_0_5",
+      "x": 69,
+      "y": 198,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_0_5": {
+      "name": "easter_c20_mountainslopes_64_d_0_5",
+      "x": 35,
+      "y": 171,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_4_5": {
+      "name": "easter_c20_mountainslopes_64_a_4_5",
+      "x": 72,
+      "y": 199,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_b_4_5": {
+      "name": "easter_c20_mountainslopes_64_b_4_5",
+      "x": 26,
+      "y": 203,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_4_5": {
+      "name": "easter_c20_mountainslopes_64_c_4_5",
+      "x": 69,
+      "y": 198,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_4_5": {
+      "name": "easter_c20_mountainslopes_64_d_4_5",
+      "x": 35,
+      "y": 171,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_0_6": {
+      "name": "easter_c20_mountainslopes_64_a_0_6",
+      "x": 72,
+      "y": 235,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_0_6": {
+      "name": "easter_c20_mountainslopes_64_b_0_6",
+      "x": 26,
+      "y": 239,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_0_6": {
+      "name": "easter_c20_mountainslopes_64_c_0_6",
+      "x": 69,
+      "y": 233,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_0_6": {
+      "name": "easter_c20_mountainslopes_64_d_0_6",
+      "x": 35,
+      "y": 203,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_4_6": {
+      "name": "easter_c20_mountainslopes_64_a_4_6",
+      "x": 72,
+      "y": 235,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_b_4_6": {
+      "name": "easter_c20_mountainslopes_64_b_4_6",
+      "x": 26,
+      "y": 239,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_4_6": {
+      "name": "easter_c20_mountainslopes_64_c_4_6",
+      "x": 69,
+      "y": 233,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_4_6": {
+      "name": "easter_c20_mountainslopes_64_d_4_6",
+      "x": 35,
+      "y": 203,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_0_7": {
+      "name": "easter_c20_mountainslopes_64_a_0_7",
+      "x": 72,
+      "y": 271,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_0_7": {
+      "name": "easter_c20_mountainslopes_64_b_0_7",
+      "x": 28,
+      "y": 275,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_0_7": {
+      "name": "easter_c20_mountainslopes_64_c_0_7",
+      "x": 69,
+      "y": 266,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_0_7": {
+      "name": "easter_c20_mountainslopes_64_d_0_7",
+      "x": 35,
+      "y": 235,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_4_7": {
+      "name": "easter_c20_mountainslopes_64_a_4_7",
+      "x": 72,
+      "y": 271,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_b_4_7": {
+      "name": "easter_c20_mountainslopes_64_b_4_7",
+      "x": 28,
+      "y": 275,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_c_4_7": {
+      "name": "easter_c20_mountainslopes_64_c_4_7",
+      "x": 69,
+      "y": 266,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_d_4_7": {
+      "name": "easter_c20_mountainslopes_64_d_4_7",
+      "x": 39,
+      "y": 235,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_icon_a": {
+      "name": "easter_c20_mountainslopes_icon_a",
+      "x": 11,
+      "y": 14,
+      "exists": true
+    },
+    "easter_c20_mountainslopes_64_a_2_0": {
+      "name": "easter_c20_mountainslopes_64_a_2_0",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_0_0",
+      "x": 67,
+      "y": 23,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_2_0": {
+      "name": "easter_c20_mountainslopes_64_b_2_0",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_0_0",
+      "x": 39,
+      "y": 25,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_2_0": {
+      "name": "easter_c20_mountainslopes_64_c_2_0",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_0_0",
+      "x": 66,
+      "y": 8,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_2_0": {
+      "name": "easter_c20_mountainslopes_64_d_2_0",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_0_0",
+      "x": 35,
+      "y": -13,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_2_1": {
+      "name": "easter_c20_mountainslopes_64_a_2_1",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_0_1",
+      "x": 72,
+      "y": 55,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_2_1": {
+      "name": "easter_c20_mountainslopes_64_b_2_1",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_0_1",
+      "x": 34,
+      "y": 59,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_2_1": {
+      "name": "easter_c20_mountainslopes_64_c_2_1",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_0_1",
+      "x": 68,
+      "y": 49,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_2_1": {
+      "name": "easter_c20_mountainslopes_64_d_2_1",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_0_1",
+      "x": 35,
+      "y": 16,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_2_2": {
+      "name": "easter_c20_mountainslopes_64_a_2_2",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_0_2",
+      "x": 71,
+      "y": 91,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_2_2": {
+      "name": "easter_c20_mountainslopes_64_b_2_2",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_0_2",
+      "x": 34,
+      "y": 95,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_2_2": {
+      "name": "easter_c20_mountainslopes_64_c_2_2",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_0_2",
+      "x": 68,
+      "y": 85,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_2_2": {
+      "name": "easter_c20_mountainslopes_64_d_2_2",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_0_2",
+      "x": 35,
+      "y": 51,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_2_3": {
+      "name": "easter_c20_mountainslopes_64_a_2_3",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_0_3",
+      "x": 71,
+      "y": 127,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_2_3": {
+      "name": "easter_c20_mountainslopes_64_b_2_3",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_0_3",
+      "x": 29,
+      "y": 131,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_2_3": {
+      "name": "easter_c20_mountainslopes_64_c_2_3",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_0_3",
+      "x": 68,
+      "y": 121,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_2_3": {
+      "name": "easter_c20_mountainslopes_64_d_2_3",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_0_3",
+      "x": 35,
+      "y": 89,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_2_4": {
+      "name": "easter_c20_mountainslopes_64_a_2_4",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_0_4",
+      "x": 72,
+      "y": 163,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_2_4": {
+      "name": "easter_c20_mountainslopes_64_b_2_4",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_0_4",
+      "x": 26,
+      "y": 167,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_2_4": {
+      "name": "easter_c20_mountainslopes_64_c_2_4",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_0_4",
+      "x": 69,
+      "y": 161,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_2_4": {
+      "name": "easter_c20_mountainslopes_64_d_2_4",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_0_4",
+      "x": 35,
+      "y": 131,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_2_5": {
+      "name": "easter_c20_mountainslopes_64_a_2_5",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_0_5",
+      "x": 72,
+      "y": 199,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_2_5": {
+      "name": "easter_c20_mountainslopes_64_b_2_5",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_0_5",
+      "x": 26,
+      "y": 203,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_2_5": {
+      "name": "easter_c20_mountainslopes_64_c_2_5",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_0_5",
+      "x": 69,
+      "y": 198,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_2_5": {
+      "name": "easter_c20_mountainslopes_64_d_2_5",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_0_5",
+      "x": 35,
+      "y": 171,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_2_6": {
+      "name": "easter_c20_mountainslopes_64_a_2_6",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_0_6",
+      "x": 72,
+      "y": 235,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_2_6": {
+      "name": "easter_c20_mountainslopes_64_b_2_6",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_0_6",
+      "x": 26,
+      "y": 239,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_2_6": {
+      "name": "easter_c20_mountainslopes_64_c_2_6",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_0_6",
+      "x": 69,
+      "y": 233,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_2_6": {
+      "name": "easter_c20_mountainslopes_64_d_2_6",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_0_6",
+      "x": 35,
+      "y": 203,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_2_7": {
+      "name": "easter_c20_mountainslopes_64_a_2_7",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_0_7",
+      "x": 72,
+      "y": 271,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_2_7": {
+      "name": "easter_c20_mountainslopes_64_b_2_7",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_0_7",
+      "x": 28,
+      "y": 275,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_2_7": {
+      "name": "easter_c20_mountainslopes_64_c_2_7",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_0_7",
+      "x": 69,
+      "y": 266,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_2_7": {
+      "name": "easter_c20_mountainslopes_64_d_2_7",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_0_7",
+      "x": 35,
+      "y": 235,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_6_0": {
+      "name": "easter_c20_mountainslopes_64_a_6_0",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_4_0",
+      "x": 67,
+      "y": 23,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_6_0": {
+      "name": "easter_c20_mountainslopes_64_b_6_0",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_4_0",
+      "x": 39,
+      "y": 25,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_6_0": {
+      "name": "easter_c20_mountainslopes_64_c_6_0",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_4_0",
+      "x": 66,
+      "y": 8,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_6_0": {
+      "name": "easter_c20_mountainslopes_64_d_6_0",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_4_0",
+      "x": 35,
+      "y": -13,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_6_1": {
+      "name": "easter_c20_mountainslopes_64_a_6_1",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_4_1",
+      "x": 72,
+      "y": 55,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_6_1": {
+      "name": "easter_c20_mountainslopes_64_b_6_1",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_4_1",
+      "x": 34,
+      "y": 59,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_6_1": {
+      "name": "easter_c20_mountainslopes_64_c_6_1",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_4_1",
+      "x": 68,
+      "y": 49,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_6_1": {
+      "name": "easter_c20_mountainslopes_64_d_6_1",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_4_1",
+      "x": 35,
+      "y": 16,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_6_2": {
+      "name": "easter_c20_mountainslopes_64_a_6_2",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_4_2",
+      "x": 71,
+      "y": 91,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_6_2": {
+      "name": "easter_c20_mountainslopes_64_b_6_2",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_4_2",
+      "x": 34,
+      "y": 95,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_6_2": {
+      "name": "easter_c20_mountainslopes_64_c_6_2",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_4_2",
+      "x": 68,
+      "y": 85,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_6_2": {
+      "name": "easter_c20_mountainslopes_64_d_6_2",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_4_2",
+      "x": 35,
+      "y": 51,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_6_3": {
+      "name": "easter_c20_mountainslopes_64_a_6_3",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_4_3",
+      "x": 71,
+      "y": 127,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_6_3": {
+      "name": "easter_c20_mountainslopes_64_b_6_3",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_4_3",
+      "x": 29,
+      "y": 131,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_6_3": {
+      "name": "easter_c20_mountainslopes_64_c_6_3",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_4_3",
+      "x": 68,
+      "y": 121,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_6_3": {
+      "name": "easter_c20_mountainslopes_64_d_6_3",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_4_3",
+      "x": 35,
+      "y": 89,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_6_4": {
+      "name": "easter_c20_mountainslopes_64_a_6_4",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_4_4",
+      "x": 72,
+      "y": 163,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_6_4": {
+      "name": "easter_c20_mountainslopes_64_b_6_4",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_4_4",
+      "x": 26,
+      "y": 167,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_6_4": {
+      "name": "easter_c20_mountainslopes_64_c_6_4",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_4_4",
+      "x": 69,
+      "y": 161,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_6_4": {
+      "name": "easter_c20_mountainslopes_64_d_6_4",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_4_4",
+      "x": 35,
+      "y": 131,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_6_5": {
+      "name": "easter_c20_mountainslopes_64_a_6_5",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_4_5",
+      "x": 72,
+      "y": 199,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_6_5": {
+      "name": "easter_c20_mountainslopes_64_b_6_5",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_4_5",
+      "x": 26,
+      "y": 203,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_6_5": {
+      "name": "easter_c20_mountainslopes_64_c_6_5",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_4_5",
+      "x": 69,
+      "y": 198,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_6_5": {
+      "name": "easter_c20_mountainslopes_64_d_6_5",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_4_5",
+      "x": 35,
+      "y": 171,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_6_6": {
+      "name": "easter_c20_mountainslopes_64_a_6_6",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_4_6",
+      "x": 72,
+      "y": 235,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_6_6": {
+      "name": "easter_c20_mountainslopes_64_b_6_6",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_4_6",
+      "x": 26,
+      "y": 239,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_6_6": {
+      "name": "easter_c20_mountainslopes_64_c_6_6",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_4_6",
+      "x": 69,
+      "y": 233,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_6_6": {
+      "name": "easter_c20_mountainslopes_64_d_6_6",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_4_6",
+      "x": 35,
+      "y": 203,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_a_6_7": {
+      "name": "easter_c20_mountainslopes_64_a_6_7",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_a_4_7",
+      "x": 72,
+      "y": 271,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_b_6_7": {
+      "name": "easter_c20_mountainslopes_64_b_6_7",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_b_4_7",
+      "x": 28,
+      "y": 275,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_c_6_7": {
+      "name": "easter_c20_mountainslopes_64_c_6_7",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_c_4_7",
+      "x": 69,
+      "y": 266,
+      "exists": false
+    },
+    "easter_c20_mountainslopes_64_d_6_7": {
+      "name": "easter_c20_mountainslopes_64_d_6_7",
+      "flipH": 1,
+      "source": "easter_c20_mountainslopes_64_d_4_7",
+      "x": 39,
+      "y": 235,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 2,
+      "y": 2,
+      "z": 0.5
+    },
+    "directions": [
+      0,
+      180,
+      90,
+      270
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": [],
+        "4": [],
+        "6": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            }
+          ]
+        },
+        "3": {
+          "id": 3,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "4": {
+          "id": 4,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            }
+          ]
+        },
+        "5": {
+          "id": 5,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  5
+                ]
+              ]
+            }
+          ]
+        },
+        "6": {
+          "id": 6,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  6
+                ]
+              ]
+            }
+          ]
+        },
+        "7": {
+          "id": 7,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  7
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "z": -1500
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "z": 500
+        },
+        {
+          "layerId": 3,
+          "z": 1000
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multiheight",
+    "type": "easter_c20_mountainslopes",
+    "visualization": "furniture_animated"
+  }
+}

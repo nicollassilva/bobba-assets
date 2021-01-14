@@ -1,0 +1,261 @@
+{
+  "assets": {
+    "rare_blackrosegold_dragonlamp_64_sd_4_0": {
+      "name": "rare_blackrosegold_dragonlamp_64_sd_4_0",
+      "x": 28,
+      "y": 13,
+      "exists": true
+    },
+    "rare_blackrosegold_dragonlamp_64_a_4_0": {
+      "name": "rare_blackrosegold_dragonlamp_64_a_4_0",
+      "x": 28,
+      "y": 35,
+      "exists": true
+    },
+    "rare_blackrosegold_dragonlamp_64_b_4_0": {
+      "name": "rare_blackrosegold_dragonlamp_64_b_4_0",
+      "x": 20,
+      "y": 60,
+      "exists": true
+    },
+    "rare_blackrosegold_dragonlamp_64_b_4_1": {
+      "name": "rare_blackrosegold_dragonlamp_64_b_4_1",
+      "x": 8,
+      "y": 69,
+      "exists": true
+    },
+    "rare_blackrosegold_dragonlamp_64_c_4_0": {
+      "name": "rare_blackrosegold_dragonlamp_64_c_4_0",
+      "x": 3,
+      "y": 98,
+      "exists": true
+    },
+    "rare_blackrosegold_dragonlamp_64_c_4_1": {
+      "name": "rare_blackrosegold_dragonlamp_64_c_4_1",
+      "x": 5,
+      "y": 92,
+      "exists": true
+    },
+    "rare_blackrosegold_dragonlamp_64_c_4_2": {
+      "name": "rare_blackrosegold_dragonlamp_64_c_4_2",
+      "x": 7,
+      "y": 94,
+      "exists": true
+    },
+    "rare_blackrosegold_dragonlamp_64_c_4_3": {
+      "name": "rare_blackrosegold_dragonlamp_64_c_4_3",
+      "x": 8,
+      "y": 96,
+      "exists": true
+    },
+    "rare_blackrosegold_dragonlamp_64_d_4_0": {
+      "name": "rare_blackrosegold_dragonlamp_64_d_4_0",
+      "x": 23,
+      "y": 114,
+      "exists": true
+    },
+    "rare_blackrosegold_dragonlamp_icon_a": {
+      "name": "rare_blackrosegold_dragonlamp_icon_a",
+      "x": 13,
+      "y": 15,
+      "exists": true
+    },
+    "rare_blackrosegold_dragonlamp_64_sd_2_0": {
+      "name": "rare_blackrosegold_dragonlamp_64_sd_2_0",
+      "flipH": 1,
+      "source": "rare_blackrosegold_dragonlamp_64_sd_4_0",
+      "x": 28,
+      "y": 13,
+      "exists": false
+    },
+    "rare_blackrosegold_dragonlamp_64_a_2_0": {
+      "name": "rare_blackrosegold_dragonlamp_64_a_2_0",
+      "flipH": 1,
+      "source": "rare_blackrosegold_dragonlamp_64_a_4_0",
+      "x": 28,
+      "y": 35,
+      "exists": false
+    },
+    "rare_blackrosegold_dragonlamp_64_b_2_0": {
+      "name": "rare_blackrosegold_dragonlamp_64_b_2_0",
+      "flipH": 1,
+      "source": "rare_blackrosegold_dragonlamp_64_b_4_0",
+      "x": 20,
+      "y": 60,
+      "exists": false
+    },
+    "rare_blackrosegold_dragonlamp_64_b_2_1": {
+      "name": "rare_blackrosegold_dragonlamp_64_b_2_1",
+      "flipH": 1,
+      "source": "rare_blackrosegold_dragonlamp_64_b_4_1",
+      "x": 8,
+      "y": 69,
+      "exists": false
+    },
+    "rare_blackrosegold_dragonlamp_64_c_2_0": {
+      "name": "rare_blackrosegold_dragonlamp_64_c_2_0",
+      "flipH": 1,
+      "source": "rare_blackrosegold_dragonlamp_64_c_4_0",
+      "x": 3,
+      "y": 98,
+      "exists": false
+    },
+    "rare_blackrosegold_dragonlamp_64_c_2_1": {
+      "name": "rare_blackrosegold_dragonlamp_64_c_2_1",
+      "flipH": 1,
+      "source": "rare_blackrosegold_dragonlamp_64_c_4_1",
+      "x": 5,
+      "y": 92,
+      "exists": false
+    },
+    "rare_blackrosegold_dragonlamp_64_c_2_2": {
+      "name": "rare_blackrosegold_dragonlamp_64_c_2_2",
+      "flipH": 1,
+      "source": "rare_blackrosegold_dragonlamp_64_c_4_2",
+      "x": 7,
+      "y": 94,
+      "exists": false
+    },
+    "rare_blackrosegold_dragonlamp_64_c_2_3": {
+      "name": "rare_blackrosegold_dragonlamp_64_c_2_3",
+      "flipH": 1,
+      "source": "rare_blackrosegold_dragonlamp_64_c_4_3",
+      "x": 8,
+      "y": 96,
+      "exists": false
+    },
+    "rare_blackrosegold_dragonlamp_64_d_2_0": {
+      "name": "rare_blackrosegold_dragonlamp_64_d_2_0",
+      "flipH": 1,
+      "source": "rare_blackrosegold_dragonlamp_64_d_4_0",
+      "x": 23,
+      "y": 114,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  4
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "scrn"
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "rare_blackrosegold_dragonlamp",
+    "visualization": "furniture_animated"
+  }
+}

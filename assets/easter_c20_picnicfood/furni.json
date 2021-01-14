@@ -1,0 +1,296 @@
+{
+  "assets": {
+    "easter_c20_picnicfood_64_sd_2_0": {
+      "name": "easter_c20_picnicfood_64_sd_2_0",
+      "x": 10,
+      "y": 4,
+      "exists": true
+    },
+    "easter_c20_picnicfood_64_a_2_0": {
+      "name": "easter_c20_picnicfood_64_a_2_0",
+      "x": 15,
+      "y": 27,
+      "exists": true
+    },
+    "easter_c20_picnicfood_64_a_2_1": {
+      "name": "easter_c20_picnicfood_64_a_2_1",
+      "x": 15,
+      "y": 11,
+      "exists": true
+    },
+    "easter_c20_picnicfood_64_a_2_2": {
+      "name": "easter_c20_picnicfood_64_a_2_2",
+      "x": 15,
+      "y": 28,
+      "exists": true
+    },
+    "easter_c20_picnicfood_64_b_2_0": {
+      "name": "easter_c20_picnicfood_64_b_2_0",
+      "x": -2,
+      "y": 49,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_2_1": {
+      "name": "easter_c20_picnicfood_64_b_2_1",
+      "x": -2,
+      "y": 50,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_2_2": {
+      "name": "easter_c20_picnicfood_64_b_2_2",
+      "x": -2,
+      "y": 44,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_2_3": {
+      "name": "easter_c20_picnicfood_64_b_2_3",
+      "x": -2,
+      "y": 47,
+      "exists": true
+    },
+    "easter_c20_picnicfood_64_b_2_4": {
+      "name": "easter_c20_picnicfood_64_b_2_4",
+      "x": 4,
+      "y": 53,
+      "exists": true
+    },
+    "easter_c20_picnicfood_64_b_2_5": {
+      "name": "easter_c20_picnicfood_64_b_2_5",
+      "x": 4,
+      "y": 54,
+      "exists": true
+    },
+    "easter_c20_picnicfood_64_b_2_6": {
+      "name": "easter_c20_picnicfood_64_b_2_6",
+      "x": 4,
+      "y": 48,
+      "exists": true
+    },
+    "easter_c20_picnicfood_64_b_2_7": {
+      "name": "easter_c20_picnicfood_64_b_2_7",
+      "x": 4,
+      "y": 51,
+      "exists": false
+    },
+    "easter_c20_picnicfood_icon_a": {
+      "name": "easter_c20_picnicfood_icon_a",
+      "x": 14,
+      "y": 8,
+      "exists": true
+    },
+    "easter_c20_picnicfood_64_sd_4_0": {
+      "name": "easter_c20_picnicfood_64_sd_4_0",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_sd_2_0",
+      "x": 10,
+      "y": 4,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_a_4_0": {
+      "name": "easter_c20_picnicfood_64_a_4_0",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_a_2_0",
+      "x": 15,
+      "y": 27,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_a_4_1": {
+      "name": "easter_c20_picnicfood_64_a_4_1",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_a_2_1",
+      "x": 15,
+      "y": 11,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_a_4_2": {
+      "name": "easter_c20_picnicfood_64_a_4_2",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_a_2_2",
+      "x": 15,
+      "y": 28,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_4_0": {
+      "name": "easter_c20_picnicfood_64_b_4_0",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_b_2_0",
+      "x": -2,
+      "y": 49,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_4_1": {
+      "name": "easter_c20_picnicfood_64_b_4_1",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_b_2_1",
+      "x": -2,
+      "y": 50,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_4_2": {
+      "name": "easter_c20_picnicfood_64_b_4_2",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_b_2_2",
+      "x": -2,
+      "y": 44,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_4_3": {
+      "name": "easter_c20_picnicfood_64_b_4_3",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_b_2_3",
+      "x": -2,
+      "y": 47,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_4_4": {
+      "name": "easter_c20_picnicfood_64_b_4_4",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_b_2_4",
+      "x": 4,
+      "y": 53,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_4_5": {
+      "name": "easter_c20_picnicfood_64_b_4_5",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_b_2_5",
+      "x": 4,
+      "y": 54,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_4_6": {
+      "name": "easter_c20_picnicfood_64_b_4_6",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_b_2_6",
+      "x": 4,
+      "y": 48,
+      "exists": false
+    },
+    "easter_c20_picnicfood_64_b_4_7": {
+      "name": "easter_c20_picnicfood_64_b_4_7",
+      "flipH": 1,
+      "source": "easter_c20_picnicfood_64_b_2_7",
+      "x": 4,
+      "y": 51,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.5
+    },
+    "directions": [
+      90,
+      180
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  8
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  4,
+                  5,
+                  6,
+                  7
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "easter_c20_picnicfood",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,741 @@
+{
+  "assets": {
+    "rare_r20_marimo_64_sd_0_0": {
+      "name": "rare_r20_marimo_64_sd_0_0",
+      "x": 22,
+      "y": 11,
+      "exists": true
+    },
+    "rare_r20_marimo_64_a_0_0": {
+      "name": "rare_r20_marimo_64_a_0_0",
+      "x": 22,
+      "y": 76,
+      "exists": true
+    },
+    "rare_r20_marimo_64_a_0_1": {
+      "name": "rare_r20_marimo_64_a_0_1",
+      "x": 24,
+      "y": 78,
+      "exists": true
+    },
+    "rare_r20_marimo_64_b_0_0": {
+      "name": "rare_r20_marimo_64_b_0_0",
+      "x": 10,
+      "y": 21,
+      "exists": true
+    },
+    "rare_r20_marimo_64_b_0_1": {
+      "name": "rare_r20_marimo_64_b_0_1",
+      "x": 10,
+      "y": 21,
+      "exists": true
+    },
+    "rare_r20_marimo_64_b_0_2": {
+      "name": "rare_r20_marimo_64_b_0_2",
+      "x": 10,
+      "y": 21,
+      "exists": true
+    },
+    "rare_r20_marimo_64_b_0_3": {
+      "name": "rare_r20_marimo_64_b_0_3",
+      "x": 10,
+      "y": 21,
+      "exists": true
+    },
+    "rare_r20_marimo_64_b_0_4": {
+      "name": "rare_r20_marimo_64_b_0_4",
+      "x": 10,
+      "y": 21,
+      "exists": true
+    },
+    "rare_r20_marimo_64_b_0_5": {
+      "name": "rare_r20_marimo_64_b_0_5",
+      "x": 10,
+      "y": 21,
+      "exists": true
+    },
+    "rare_r20_marimo_64_b_0_6": {
+      "name": "rare_r20_marimo_64_b_0_6",
+      "x": 10,
+      "y": 21,
+      "exists": true
+    },
+    "rare_r20_marimo_64_b_0_7": {
+      "name": "rare_r20_marimo_64_b_0_7",
+      "x": 10,
+      "y": 21,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_0": {
+      "name": "rare_r20_marimo_64_c_0_0",
+      "x": 11,
+      "y": 42,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_1": {
+      "name": "rare_r20_marimo_64_c_0_1",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_2": {
+      "name": "rare_r20_marimo_64_c_0_2",
+      "x": 11,
+      "y": 47,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_3": {
+      "name": "rare_r20_marimo_64_c_0_3",
+      "x": 11,
+      "y": 49,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_4": {
+      "name": "rare_r20_marimo_64_c_0_4",
+      "x": 11,
+      "y": 54,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_5": {
+      "name": "rare_r20_marimo_64_c_0_5",
+      "x": 11,
+      "y": 54,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_6": {
+      "name": "rare_r20_marimo_64_c_0_6",
+      "x": 11,
+      "y": 54,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_7": {
+      "name": "rare_r20_marimo_64_c_0_7",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_8": {
+      "name": "rare_r20_marimo_64_c_0_8",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_9": {
+      "name": "rare_r20_marimo_64_c_0_9",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_10": {
+      "name": "rare_r20_marimo_64_c_0_10",
+      "x": 11,
+      "y": 44,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_11": {
+      "name": "rare_r20_marimo_64_c_0_11",
+      "x": 11,
+      "y": 43,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_12": {
+      "name": "rare_r20_marimo_64_c_0_12",
+      "x": 11,
+      "y": 42,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_13": {
+      "name": "rare_r20_marimo_64_c_0_13",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_14": {
+      "name": "rare_r20_marimo_64_c_0_14",
+      "x": 11,
+      "y": 47,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_15": {
+      "name": "rare_r20_marimo_64_c_0_15",
+      "x": 11,
+      "y": 49,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_16": {
+      "name": "rare_r20_marimo_64_c_0_16",
+      "x": 11,
+      "y": 54,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_17": {
+      "name": "rare_r20_marimo_64_c_0_17",
+      "x": 11,
+      "y": 54,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_18": {
+      "name": "rare_r20_marimo_64_c_0_18",
+      "x": 11,
+      "y": 54,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_19": {
+      "name": "rare_r20_marimo_64_c_0_19",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_20": {
+      "name": "rare_r20_marimo_64_c_0_20",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_21": {
+      "name": "rare_r20_marimo_64_c_0_21",
+      "x": 11,
+      "y": 45,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_22": {
+      "name": "rare_r20_marimo_64_c_0_22",
+      "x": 11,
+      "y": 44,
+      "exists": true
+    },
+    "rare_r20_marimo_64_c_0_23": {
+      "name": "rare_r20_marimo_64_c_0_23",
+      "x": 11,
+      "y": 43,
+      "exists": true
+    },
+    "rare_r20_marimo_64_d_0_0": {
+      "name": "rare_r20_marimo_64_d_0_0",
+      "x": 47,
+      "y": 103,
+      "exists": true
+    },
+    "rare_r20_marimo_icon_a": {
+      "name": "rare_r20_marimo_icon_a",
+      "x": 7,
+      "y": 14,
+      "exists": true
+    },
+    "rare_r20_marimo_64_e_0_0": {
+      "name": "rare_r20_marimo_64_e_0_0",
+      "x": 14,
+      "y": 58,
+      "exists": true
+    },
+    "rare_r20_marimo_64_e_0_1": {
+      "name": "rare_r20_marimo_64_e_0_1",
+      "x": 14,
+      "y": 58,
+      "exists": true
+    },
+    "rare_r20_marimo_64_sd_2_0": {
+      "name": "rare_r20_marimo_64_sd_2_0",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_sd_0_0",
+      "x": 22,
+      "y": 11,
+      "exists": false
+    },
+    "rare_r20_marimo_64_a_2_0": {
+      "name": "rare_r20_marimo_64_a_2_0",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_a_0_0",
+      "x": 22,
+      "y": 76,
+      "exists": false
+    },
+    "rare_r20_marimo_64_a_2_1": {
+      "name": "rare_r20_marimo_64_a_2_1",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_a_0_1",
+      "x": 24,
+      "y": 78,
+      "exists": false
+    },
+    "rare_r20_marimo_64_b_2_0": {
+      "name": "rare_r20_marimo_64_b_2_0",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_b_0_0",
+      "x": 10,
+      "y": 21,
+      "exists": false
+    },
+    "rare_r20_marimo_64_b_2_1": {
+      "name": "rare_r20_marimo_64_b_2_1",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_b_0_1",
+      "x": 10,
+      "y": 21,
+      "exists": false
+    },
+    "rare_r20_marimo_64_b_2_2": {
+      "name": "rare_r20_marimo_64_b_2_2",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_b_0_2",
+      "x": 10,
+      "y": 21,
+      "exists": false
+    },
+    "rare_r20_marimo_64_b_2_3": {
+      "name": "rare_r20_marimo_64_b_2_3",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_b_0_3",
+      "x": 10,
+      "y": 21,
+      "exists": false
+    },
+    "rare_r20_marimo_64_b_2_4": {
+      "name": "rare_r20_marimo_64_b_2_4",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_b_0_4",
+      "x": 10,
+      "y": 21,
+      "exists": false
+    },
+    "rare_r20_marimo_64_b_2_5": {
+      "name": "rare_r20_marimo_64_b_2_5",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_b_0_5",
+      "x": 10,
+      "y": 21,
+      "exists": false
+    },
+    "rare_r20_marimo_64_b_2_6": {
+      "name": "rare_r20_marimo_64_b_2_6",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_b_0_6",
+      "x": 10,
+      "y": 21,
+      "exists": false
+    },
+    "rare_r20_marimo_64_b_2_7": {
+      "name": "rare_r20_marimo_64_b_2_7",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_b_0_7",
+      "x": 10,
+      "y": 21,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_0": {
+      "name": "rare_r20_marimo_64_c_2_0",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_0",
+      "x": 11,
+      "y": 42,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_1": {
+      "name": "rare_r20_marimo_64_c_2_1",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_1",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_2": {
+      "name": "rare_r20_marimo_64_c_2_2",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_2",
+      "x": 11,
+      "y": 47,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_3": {
+      "name": "rare_r20_marimo_64_c_2_3",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_3",
+      "x": 11,
+      "y": 49,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_4": {
+      "name": "rare_r20_marimo_64_c_2_4",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_4",
+      "x": 11,
+      "y": 54,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_5": {
+      "name": "rare_r20_marimo_64_c_2_5",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_5",
+      "x": 11,
+      "y": 54,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_6": {
+      "name": "rare_r20_marimo_64_c_2_6",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_6",
+      "x": 11,
+      "y": 54,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_7": {
+      "name": "rare_r20_marimo_64_c_2_7",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_7",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_8": {
+      "name": "rare_r20_marimo_64_c_2_8",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_8",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_9": {
+      "name": "rare_r20_marimo_64_c_2_9",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_9",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_10": {
+      "name": "rare_r20_marimo_64_c_2_10",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_10",
+      "x": 11,
+      "y": 44,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_11": {
+      "name": "rare_r20_marimo_64_c_2_11",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_11",
+      "x": 11,
+      "y": 43,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_12": {
+      "name": "rare_r20_marimo_64_c_2_12",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_12",
+      "x": 11,
+      "y": 42,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_13": {
+      "name": "rare_r20_marimo_64_c_2_13",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_13",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_14": {
+      "name": "rare_r20_marimo_64_c_2_14",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_14",
+      "x": 11,
+      "y": 47,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_15": {
+      "name": "rare_r20_marimo_64_c_2_15",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_15",
+      "x": 11,
+      "y": 49,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_16": {
+      "name": "rare_r20_marimo_64_c_2_16",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_16",
+      "x": 11,
+      "y": 54,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_17": {
+      "name": "rare_r20_marimo_64_c_2_17",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_17",
+      "x": 11,
+      "y": 54,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_18": {
+      "name": "rare_r20_marimo_64_c_2_18",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_18",
+      "x": 11,
+      "y": 54,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_19": {
+      "name": "rare_r20_marimo_64_c_2_19",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_19",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_20": {
+      "name": "rare_r20_marimo_64_c_2_20",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_20",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_21": {
+      "name": "rare_r20_marimo_64_c_2_21",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_21",
+      "x": 11,
+      "y": 45,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_22": {
+      "name": "rare_r20_marimo_64_c_2_22",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_22",
+      "x": 11,
+      "y": 44,
+      "exists": false
+    },
+    "rare_r20_marimo_64_c_2_23": {
+      "name": "rare_r20_marimo_64_c_2_23",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_c_0_23",
+      "x": 11,
+      "y": 43,
+      "exists": false
+    },
+    "rare_r20_marimo_64_d_2_0": {
+      "name": "rare_r20_marimo_64_d_2_0",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_d_0_0",
+      "x": 47,
+      "y": 103,
+      "exists": false
+    },
+    "rare_r20_marimo_64_e_2_0": {
+      "name": "rare_r20_marimo_64_e_2_0",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_e_0_0",
+      "x": 14,
+      "y": 58,
+      "exists": false
+    },
+    "rare_r20_marimo_64_e_2_1": {
+      "name": "rare_r20_marimo_64_e_2_1",
+      "flipH": 1,
+      "source": "rare_r20_marimo_64_e_0_1",
+      "x": 14,
+      "y": 58,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 2.1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 5,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  2,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  2,
+                  3,
+                  3,
+                  3,
+                  2
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  6,
+                  5,
+                  4,
+                  4,
+                  4,
+                  4,
+                  5,
+                  6,
+                  7,
+                  7,
+                  7,
+                  6
+                ]
+              ]
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  12,
+                  13,
+                  14,
+                  15,
+                  16,
+                  17,
+                  18,
+                  19,
+                  20,
+                  21,
+                  22,
+                  23
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  0
+                ]
+              ]
+            },
+            {
+              "layerId": 4,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1
+        },
+        {
+          "layerId": 2,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "alpha": 150
+        },
+        {
+          "layerId": 4,
+          "ink": "ADD"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "rare_r20_marimo",
+    "visualization": "furniture_animated"
+  }
+}

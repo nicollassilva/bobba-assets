@@ -1,0 +1,299 @@
+{
+  "assets": {
+    "clothing_goldhatpack1_64_sd_0_0": {
+      "name": "clothing_goldhatpack1_64_sd_0_0",
+      "x": 21,
+      "y": 9,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_a_0_0": {
+      "name": "clothing_goldhatpack1_64_a_0_0",
+      "x": 25,
+      "y": 33,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_1": {
+      "name": "clothing_goldhatpack1_64_b_0_1",
+      "x": 16,
+      "y": 28,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_2": {
+      "name": "clothing_goldhatpack1_64_b_0_2",
+      "x": 20,
+      "y": 26,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_3": {
+      "name": "clothing_goldhatpack1_64_b_0_3",
+      "x": 21,
+      "y": 21,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_4": {
+      "name": "clothing_goldhatpack1_64_b_0_4",
+      "x": 16,
+      "y": 13,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_5": {
+      "name": "clothing_goldhatpack1_64_b_0_5",
+      "x": 6,
+      "y": 10,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_6": {
+      "name": "clothing_goldhatpack1_64_b_0_6",
+      "x": 3,
+      "y": 10,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_7": {
+      "name": "clothing_goldhatpack1_64_b_0_7",
+      "x": 1,
+      "y": 10,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_8": {
+      "name": "clothing_goldhatpack1_64_b_0_8",
+      "x": 5,
+      "y": 14,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_9": {
+      "name": "clothing_goldhatpack1_64_b_0_9",
+      "x": 3,
+      "y": 12,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_10": {
+      "name": "clothing_goldhatpack1_64_b_0_10",
+      "x": 5,
+      "y": 14,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_b_0_11": {
+      "name": "clothing_goldhatpack1_64_b_0_11",
+      "x": 6,
+      "y": 15,
+      "exists": true
+    },
+    "clothing_goldhatpack1_icon_a": {
+      "name": "clothing_goldhatpack1_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "clothing_goldhatpack1_64_sd_2_0": {
+      "name": "clothing_goldhatpack1_64_sd_2_0",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_sd_0_0",
+      "x": 21,
+      "y": 9,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_a_2_0": {
+      "name": "clothing_goldhatpack1_64_a_2_0",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_a_0_0",
+      "x": 25,
+      "y": 33,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_1": {
+      "name": "clothing_goldhatpack1_64_b_2_1",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_1",
+      "x": 16,
+      "y": 28,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_2": {
+      "name": "clothing_goldhatpack1_64_b_2_2",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_2",
+      "x": 20,
+      "y": 26,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_3": {
+      "name": "clothing_goldhatpack1_64_b_2_3",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_3",
+      "x": 21,
+      "y": 21,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_4": {
+      "name": "clothing_goldhatpack1_64_b_2_4",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_4",
+      "x": 16,
+      "y": 13,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_5": {
+      "name": "clothing_goldhatpack1_64_b_2_5",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_5",
+      "x": 6,
+      "y": 10,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_6": {
+      "name": "clothing_goldhatpack1_64_b_2_6",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_6",
+      "x": 3,
+      "y": 10,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_7": {
+      "name": "clothing_goldhatpack1_64_b_2_7",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_7",
+      "x": 1,
+      "y": 10,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_8": {
+      "name": "clothing_goldhatpack1_64_b_2_8",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_8",
+      "x": 5,
+      "y": 14,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_9": {
+      "name": "clothing_goldhatpack1_64_b_2_9",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_9",
+      "x": 3,
+      "y": 12,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_10": {
+      "name": "clothing_goldhatpack1_64_b_2_10",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_10",
+      "x": 5,
+      "y": 14,
+      "exists": false
+    },
+    "clothing_goldhatpack1_64_b_2_11": {
+      "name": "clothing_goldhatpack1_64_b_2_11",
+      "flipH": 1,
+      "source": "clothing_goldhatpack1_64_b_0_11",
+      "x": 6,
+      "y": 15,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.65
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  9,
+                  10,
+                  11,
+                  12,
+                  12,
+                  12,
+                  12,
+                  12,
+                  12,
+                  12,
+                  12,
+                  12
+                ]
+              ]
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  12
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_purchasable_clothing",
+    "type": "clothing_goldhatpack1",
+    "visualization": "furniture_animated"
+  }
+}

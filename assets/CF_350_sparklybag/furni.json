@@ -1,0 +1,162 @@
+{
+  "assets": {
+    "CF_350_sparklybag_64_sd_4_0": {
+      "name": "CF_350_sparklybag_64_sd_4_0",
+      "x": 21,
+      "y": 13,
+      "exists": true
+    },
+    "CF_350_sparklybag_64_a_4_0": {
+      "name": "CF_350_sparklybag_64_a_4_0",
+      "x": 21,
+      "y": 40,
+      "exists": true
+    },
+    "CF_350_sparklybag_64_b_4_0": {
+      "name": "CF_350_sparklybag_64_b_4_0",
+      "x": 5,
+      "y": 38,
+      "exists": true
+    },
+    "CF_350_sparklybag_64_b_4_1": {
+      "name": "CF_350_sparklybag_64_b_4_1",
+      "x": 7,
+      "y": 40,
+      "exists": true
+    },
+    "CF_350_sparklybag_64_b_4_2": {
+      "name": "CF_350_sparklybag_64_b_4_2",
+      "x": 8,
+      "y": 41,
+      "exists": true
+    },
+    "CF_350_sparklybag_icon_a": {
+      "name": "CF_350_sparklybag_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "CF_350_sparklybag_64_sd_2_0": {
+      "name": "CF_350_sparklybag_64_sd_2_0",
+      "flipH": 1,
+      "source": "CF_350_sparklybag_64_sd_4_0",
+      "x": 21,
+      "y": 13,
+      "exists": false
+    },
+    "CF_350_sparklybag_64_a_2_0": {
+      "name": "CF_350_sparklybag_64_a_2_0",
+      "flipH": 1,
+      "source": "CF_350_sparklybag_64_a_4_0",
+      "x": 21,
+      "y": 40,
+      "exists": false
+    },
+    "CF_350_sparklybag_64_b_2_0": {
+      "name": "CF_350_sparklybag_64_b_2_0",
+      "flipH": 1,
+      "source": "CF_350_sparklybag_64_b_4_0",
+      "x": 5,
+      "y": 38,
+      "exists": false
+    },
+    "CF_350_sparklybag_64_b_2_1": {
+      "name": "CF_350_sparklybag_64_b_2_1",
+      "flipH": 1,
+      "source": "CF_350_sparklybag_64_b_4_1",
+      "x": 7,
+      "y": 40,
+      "exists": false
+    },
+    "CF_350_sparklybag_64_b_2_2": {
+      "name": "CF_350_sparklybag_64_b_2_2",
+      "flipH": 1,
+      "source": "CF_350_sparklybag_64_b_4_2",
+      "x": 8,
+      "y": 41,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 1.1
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  2,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3,
+                  3
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_credit",
+    "type": "CF_350_sparklybag",
+    "visualization": "furniture_animated"
+  }
+}

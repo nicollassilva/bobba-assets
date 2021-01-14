@@ -1,0 +1,193 @@
+{
+  "assets": {
+    "darkmodern_c20_speakers_64_sd_0_0": {
+      "name": "darkmodern_c20_speakers_64_sd_0_0",
+      "x": 19,
+      "y": 13,
+      "exists": true
+    },
+    "darkmodern_c20_speakers_64_a_0_0": {
+      "name": "darkmodern_c20_speakers_64_a_0_0",
+      "x": 19,
+      "y": 26,
+      "exists": true
+    },
+    "darkmodern_c20_speakers_64_b_0_0": {
+      "name": "darkmodern_c20_speakers_64_b_0_0",
+      "x": -11,
+      "y": 11,
+      "exists": false
+    },
+    "darkmodern_c20_speakers_64_c_0_0": {
+      "name": "darkmodern_c20_speakers_64_c_0_0",
+      "x": 19,
+      "y": 24,
+      "exists": true
+    },
+    "darkmodern_c20_speakers_64_d_0_0": {
+      "name": "darkmodern_c20_speakers_64_d_0_0",
+      "x": -11,
+      "y": 9,
+      "exists": false
+    },
+    "darkmodern_c20_speakers_icon_a": {
+      "name": "darkmodern_c20_speakers_icon_a",
+      "x": 14,
+      "y": 14,
+      "exists": true
+    },
+    "darkmodern_c20_speakers_64_sd_2_0": {
+      "name": "darkmodern_c20_speakers_64_sd_2_0",
+      "flipH": 1,
+      "source": "darkmodern_c20_speakers_64_sd_0_0",
+      "x": 19,
+      "y": 13,
+      "exists": false
+    },
+    "darkmodern_c20_speakers_64_a_2_0": {
+      "name": "darkmodern_c20_speakers_64_a_2_0",
+      "flipH": 1,
+      "source": "darkmodern_c20_speakers_64_a_0_0",
+      "x": 19,
+      "y": 26,
+      "exists": false
+    },
+    "darkmodern_c20_speakers_64_b_2_0": {
+      "name": "darkmodern_c20_speakers_64_b_2_0",
+      "flipH": 1,
+      "source": "darkmodern_c20_speakers_64_b_0_0",
+      "x": -11,
+      "y": 11,
+      "exists": false
+    },
+    "darkmodern_c20_speakers_64_c_2_0": {
+      "name": "darkmodern_c20_speakers_64_c_2_0",
+      "flipH": 1,
+      "source": "darkmodern_c20_speakers_64_c_0_0",
+      "x": 19,
+      "y": 24,
+      "exists": false
+    },
+    "darkmodern_c20_speakers_64_d_2_0": {
+      "name": "darkmodern_c20_speakers_64_d_2_0",
+      "flipH": 1,
+      "source": "darkmodern_c20_speakers_64_d_0_0",
+      "x": -11,
+      "y": 9,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 4,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            },
+            {
+              "layerId": 3,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            },
+            {
+              "layerId": 3,
+              "frameSequence": [
+                [
+                  1
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY",
+          "z": 500
+        },
+        {
+          "layerId": 2,
+          "ink": "ADD"
+        },
+        {
+          "layerId": 3,
+          "ink": "ADD",
+          "z": 500
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "darkmodern_c20_speakers",
+    "visualization": "furniture_animated"
+  }
+}

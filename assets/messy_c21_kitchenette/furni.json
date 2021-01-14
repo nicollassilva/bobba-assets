@@ -1,0 +1,370 @@
+{
+  "assets": {
+    "messy_c21_kitchenette_64_sd_0_0": {
+      "name": "messy_c21_kitchenette_64_sd_0_0",
+      "x": 65,
+      "y": 15,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_a_0_0": {
+      "name": "messy_c21_kitchenette_64_a_0_0",
+      "x": 35,
+      "y": 106,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_b_0_0": {
+      "name": "messy_c21_kitchenette_64_b_0_0",
+      "x": 65,
+      "y": 89,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_c_0_0": {
+      "name": "messy_c21_kitchenette_64_c_0_0",
+      "x": 31,
+      "y": 29,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_c_0_1": {
+      "name": "messy_c21_kitchenette_64_c_0_1",
+      "x": 25,
+      "y": 30,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_c_0_2": {
+      "name": "messy_c21_kitchenette_64_c_0_2",
+      "x": 25,
+      "y": 26,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_c_0_3": {
+      "name": "messy_c21_kitchenette_64_c_0_3",
+      "x": 27,
+      "y": 25,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_c_0_4": {
+      "name": "messy_c21_kitchenette_64_c_0_4",
+      "x": 33,
+      "y": 41,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_c_0_5": {
+      "name": "messy_c21_kitchenette_64_c_0_5",
+      "x": 34,
+      "y": 46,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_c_0_6": {
+      "name": "messy_c21_kitchenette_64_c_0_6",
+      "x": 34,
+      "y": 46,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_c_0_7": {
+      "name": "messy_c21_kitchenette_64_c_0_7",
+      "x": 33,
+      "y": 46,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_c_0_8": {
+      "name": "messy_c21_kitchenette_64_c_0_8",
+      "x": 36,
+      "y": 46,
+      "exists": true
+    },
+    "messy_c21_kitchenette_icon_a": {
+      "name": "messy_c21_kitchenette_icon_a",
+      "x": 10,
+      "y": 14,
+      "exists": true
+    },
+    "messy_c21_kitchenette_64_sd_2_0": {
+      "name": "messy_c21_kitchenette_64_sd_2_0",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_sd_0_0",
+      "x": 65,
+      "y": 15,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_a_2_0": {
+      "name": "messy_c21_kitchenette_64_a_2_0",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_a_0_0",
+      "x": 35,
+      "y": 106,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_b_2_0": {
+      "name": "messy_c21_kitchenette_64_b_2_0",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_b_0_0",
+      "x": 65,
+      "y": 89,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_c_2_0": {
+      "name": "messy_c21_kitchenette_64_c_2_0",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_c_0_0",
+      "x": 31,
+      "y": 29,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_c_2_1": {
+      "name": "messy_c21_kitchenette_64_c_2_1",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_c_0_1",
+      "x": 25,
+      "y": 30,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_c_2_2": {
+      "name": "messy_c21_kitchenette_64_c_2_2",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_c_0_2",
+      "x": 25,
+      "y": 26,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_c_2_3": {
+      "name": "messy_c21_kitchenette_64_c_2_3",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_c_0_3",
+      "x": 27,
+      "y": 25,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_c_2_4": {
+      "name": "messy_c21_kitchenette_64_c_2_4",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_c_0_4",
+      "x": 33,
+      "y": 41,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_c_2_5": {
+      "name": "messy_c21_kitchenette_64_c_2_5",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_c_0_5",
+      "x": 34,
+      "y": 46,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_c_2_6": {
+      "name": "messy_c21_kitchenette_64_c_2_6",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_c_0_6",
+      "x": 34,
+      "y": 46,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_c_2_7": {
+      "name": "messy_c21_kitchenette_64_c_2_7",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_c_0_7",
+      "x": 33,
+      "y": 46,
+      "exists": false
+    },
+    "messy_c21_kitchenette_64_c_2_8": {
+      "name": "messy_c21_kitchenette_64_c_2_8",
+      "flipH": 1,
+      "source": "messy_c21_kitchenette_64_c_0_8",
+      "x": 36,
+      "y": 46,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 2,
+      "z": 1
+    },
+    "directions": [
+      0,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "0": [],
+        "2": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 3,
+      "size": 64,
+      "directions": {
+        "0": [],
+        "2": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": []
+            }
+          ]
+        },
+        "1": {
+          "id": 1,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  0,
+                  1,
+                  1,
+                  2,
+                  3,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        },
+        "2": {
+          "id": 2,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": []
+            },
+            {
+              "layerId": 2,
+              "frameSequence": [
+                [
+                  4,
+                  5,
+                  6,
+                  7,
+                  8,
+                  7,
+                  6,
+                  7,
+                  8,
+                  7,
+                  6,
+                  7,
+                  8,
+                  6,
+                  7,
+                  8,
+                  7,
+                  6,
+                  7,
+                  8,
+                  7,
+                  6,
+                  7,
+                  8,
+                  6,
+                  7,
+                  8,
+                  7,
+                  6,
+                  7,
+                  8,
+                  7,
+                  6,
+                  7,
+                  8,
+                  6,
+                  7,
+                  8,
+                  7,
+                  6,
+                  7,
+                  8,
+                  7,
+                  6,
+                  7,
+                  8,
+                  6,
+                  7,
+                  8,
+                  7,
+                  6,
+                  7,
+                  8,
+                  7,
+                  6,
+                  7,
+                  8,
+                  5,
+                  4,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0
+        },
+        {
+          "layerId": 1,
+          "z": 1000
+        },
+        {
+          "layerId": 2,
+          "z": 1100
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_multistate",
+    "type": "messy_c21_kitchenette",
+    "visualization": "furniture_animated"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "assets": {
+    "art_c20_gold4_64_sd_4_0": {
+      "name": "art_c20_gold4_64_sd_4_0",
+      "x": 30,
+      "y": 13,
+      "exists": true
+    },
+    "art_c20_gold4_64_a_4_0": {
+      "name": "art_c20_gold4_64_a_4_0",
+      "x": 36,
+      "y": 41,
+      "exists": true
+    },
+    "art_c20_gold4_64_b_4_0": {
+      "name": "art_c20_gold4_64_b_4_0",
+      "x": 15,
+      "y": 29,
+      "exists": true
+    },
+    "art_c20_gold4_64_b_4_1": {
+      "name": "art_c20_gold4_64_b_4_1",
+      "x": 16,
+      "y": 30,
+      "exists": true
+    },
+    "art_c20_gold4_64_b_4_2": {
+      "name": "art_c20_gold4_64_b_4_2",
+      "x": 17,
+      "y": 31,
+      "exists": true
+    },
+    "art_c20_gold4_64_b_4_3": {
+      "name": "art_c20_gold4_64_b_4_3",
+      "x": 18,
+      "y": 32,
+      "exists": true
+    },
+    "art_c20_gold4_64_b_4_4": {
+      "name": "art_c20_gold4_64_b_4_4",
+      "x": 18,
+      "y": 32,
+      "exists": true
+    },
+    "art_c20_gold4_64_b_4_5": {
+      "name": "art_c20_gold4_64_b_4_5",
+      "x": 18,
+      "y": 32,
+      "exists": true
+    },
+    "art_c20_gold4_64_b_4_6": {
+      "name": "art_c20_gold4_64_b_4_6",
+      "x": 18,
+      "y": 32,
+      "exists": true
+    },
+    "art_c20_gold4_icon_a": {
+      "name": "art_c20_gold4_icon_a",
+      "x": 13,
+      "y": 11,
+      "exists": true
+    },
+    "art_c20_gold4_64_sd_2_0": {
+      "name": "art_c20_gold4_64_sd_2_0",
+      "flipH": 1,
+      "source": "art_c20_gold4_64_sd_4_0",
+      "x": 30,
+      "y": 13,
+      "exists": false
+    },
+    "art_c20_gold4_64_a_2_0": {
+      "name": "art_c20_gold4_64_a_2_0",
+      "flipH": 1,
+      "source": "art_c20_gold4_64_a_4_0",
+      "x": 36,
+      "y": 41,
+      "exists": false
+    },
+    "art_c20_gold4_64_b_2_0": {
+      "name": "art_c20_gold4_64_b_2_0",
+      "flipH": 1,
+      "source": "art_c20_gold4_64_b_4_0",
+      "x": 15,
+      "y": 29,
+      "exists": false
+    },
+    "art_c20_gold4_64_b_2_1": {
+      "name": "art_c20_gold4_64_b_2_1",
+      "flipH": 1,
+      "source": "art_c20_gold4_64_b_4_1",
+      "x": 16,
+      "y": 30,
+      "exists": false
+    },
+    "art_c20_gold4_64_b_2_2": {
+      "name": "art_c20_gold4_64_b_2_2",
+      "flipH": 1,
+      "source": "art_c20_gold4_64_b_4_2",
+      "x": 17,
+      "y": 31,
+      "exists": false
+    },
+    "art_c20_gold4_64_b_2_3": {
+      "name": "art_c20_gold4_64_b_2_3",
+      "flipH": 1,
+      "source": "art_c20_gold4_64_b_4_3",
+      "x": 18,
+      "y": 32,
+      "exists": false
+    },
+    "art_c20_gold4_64_b_2_4": {
+      "name": "art_c20_gold4_64_b_2_4",
+      "flipH": 1,
+      "source": "art_c20_gold4_64_b_4_4",
+      "x": 18,
+      "y": 32,
+      "exists": false
+    },
+    "art_c20_gold4_64_b_2_5": {
+      "name": "art_c20_gold4_64_b_2_5",
+      "flipH": 1,
+      "source": "art_c20_gold4_64_b_4_5",
+      "x": 18,
+      "y": 32,
+      "exists": false
+    },
+    "art_c20_gold4_64_b_2_6": {
+      "name": "art_c20_gold4_64_b_2_6",
+      "flipH": 1,
+      "source": "art_c20_gold4_64_b_4_6",
+      "x": 18,
+      "y": 32,
+      "exists": false
+    }
+  },
+  "logic": {
+    "dimensions": {
+      "x": 1,
+      "y": 1,
+      "z": 0.7
+    },
+    "directions": [
+      180,
+      90
+    ]
+  },
+  "visualization": {
+    "1": {
+      "angle": 360,
+      "layerCount": 1,
+      "size": 1,
+      "directions": {}
+    },
+    "32": {
+      "angle": 45,
+      "layerCount": 1,
+      "size": 32,
+      "directions": {
+        "2": [],
+        "4": []
+      }
+    },
+    "64": {
+      "angle": 45,
+      "layerCount": 2,
+      "size": 64,
+      "directions": {
+        "2": [],
+        "4": []
+      },
+      "animations": {
+        "0": {
+          "id": 0,
+          "layers": [
+            {
+              "layerId": 0,
+              "frameSequence": []
+            },
+            {
+              "layerId": 1,
+              "frameSequence": [
+                [
+                  7,
+                  0,
+                  1,
+                  2,
+                  3,
+                  4,
+                  5,
+                  6,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7,
+                  7
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      "layers": [
+        {
+          "layerId": 0,
+          "ink": "COPY"
+        },
+        {
+          "layerId": 1,
+          "ink": "COPY"
+        }
+      ]
+    }
+  },
+  "index": {
+    "logic": "furniture_basic",
+    "type": "art_c20_gold4",
+    "visualization": "furniture_animated"
+  }
+}
